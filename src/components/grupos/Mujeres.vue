@@ -25,7 +25,7 @@
                             <div class="spacer" style="height:15px;"></div>
                         </div>
                         <div class="bee-block bee-block-2 bee-paragraph" data-aos="fade-right" data-aos-duration="1000">
-                            <p style="word-break: break-word;"><span style="color: #653725;">Todos los lunes se juntan las mujeres de la iglesia a las 19 horas en la Capitanía 500. en esta reunión tenemos tiempo para compartir, vivencias y un motivamente mensaje de la Palabra de Dios.</span></p>
+                            <p style="word-break: break-word;"><span style="color: #653725;">Tenemos un tiempo para compartir y nos apoyamos para lograr que Dios forme nuestro caracter y corazón. Es un espacio seguro donde podemos ser aunténticas y sinceras en la forma que buscamos la presencia de Dios.</span></p>
                         </div>
                         <div class="bee-block bee-block-3 bee-divider">
                             <div class="spacer" style="height:15px;"></div>
@@ -94,7 +94,7 @@
                             <div class="spacer" style="height:50px;"></div>
                         </div>
                         <div class="bee-block bee-block-4 bee-paragraph" data-aos="fade-right" data-aos-duration="1500">
-                            <p style="word-break:break-word;"><span style="color:#653725;">Todos los lunes se juntan las mujeres de la iglesia a las 19 horas en la Capitanía 500. En esta reunión tenemos tiempo para compartir, vivencias y un motivante mensaje de la Palabra de Dios. La foto debe considerar mujeres tomando once.</span></p>
+                            <p style="word-break:break-word;"><span style="color:#653725;">Todos los lunes se juntan las mujeres de la iglesia a las 19 horas en la Capitanía 500. En esta reunión tenemos tiempo para compartir, vivencias y un motivante mensaje de la Palabra de Dios.</span></p>
                         </div>
                         <div class="bee-block bee-block-5 bee-button"><button class="btn btn-primary" data-aos="fade-right" data-aos-duration="1500"
                                 href="http://www.example.com"
