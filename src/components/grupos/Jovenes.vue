@@ -33,16 +33,9 @@
 						<div class="bee-block bee-block-2 bee-image"><img alt="Hero Title" class="bee-center bee-autowidth" data-aos="fade-right" data-aos-duration="1500"
 								src="@/assets/LGF.png" style="max-width:456px;" /></div>
 						<div class="bee-block bee-block-3 bee-paragraph" data-aos="fade-right" data-aos-duration="1500">
-							<p style="word-break: break-word;"><span>Lorem ipsum dolor sit amet, consectetur </span><span
-									style="font-family: inherit; background-color: transparent;">elementum sit dignissim
-									rhoncus amet. </span><span>Arcu, mollis viverra feugiat cras neque.</span></p>
-							<span>Lorem ipsum dolor sit amet, consectetur adipiscing
-								elit. Quis elementum sit dignissim rhoncus amet. Arcu, mollis viverra feugiat cras
-								neque, gravida lectus. Proin sit feugiat vel porttitor. In ultrices magnis turpis
-								senectus dolor dui habitasse.</span><br /><br /><span>Quisque libero, leo volutpat nec
-								urna auctor adipiscing volutpat fermentum. Scelerisque nulla purus libero et pharetra
-								pretium volutpat. Lacus aenean odio consectetur quis. Pellentesque egestas dictum ligula
-								ullaorper urna bibendum matti consequat.</span>
+							<p style="word-break: break-word;"><span>Dios decidió de antemano adoptarnos como miembros de su familia al acercarnos a sí mismo por medio de Jesucristo. Eso es precisamente lo que él quería hacer, y le dio gran gusto hacerlo. Efesios 1:5 (NTV)
+							<br><br>Creemos firmemente que Dios tiene un espacio adecuado para cada persona en esta Gran Familia, por lo que ¡Hay un espacio para ti!. La Gran Familia se segmenta en 3 grupos: LED (Para estudiantes de I a IV Medio), Ex Cuartos (Para estudiantes de Educación Superior) y Vieja Escuela (Para jóvenes adultos entre 25 y 35 años)
+							<br><br>Ven y sé parte de esta hermosa Familia, porque aquí “Somos los que estamos y los que están por venir”.</span></p>
 						</div>
 						<div class="bee-block bee-block-4 bee-spacer">
 							<div class="spacer" style="height:10px;"></div>
@@ -65,22 +58,16 @@
 							<p style="word-break: break-word;" data-aos="fade-right" data-aos-duration="1000"><span>SOBRE ESTE GRUPO</span></p>
 						</div>
 						<div class="bee-block bee-block-3 bee-paragraph" data-aos="fade-right" data-aos-duration="1500">
-							<p style="word-break: break-word;"><span>¿QUÉ ES LA GRAN FAMILIA?</span></p>
+							<p style="word-break: break-word;"><span>¿CÓMO SON NUESTRAS REUNIONES?</span></p>
 						</div>
 						<div class="bee-block bee-block-4 bee-paragraph" data-aos="fade-right" data-aos-duration="2000">
-							<p style="word-break: break-word;"><span>Lorem ipsum dolor sit amet, consectetur adipiscing
-									elit. Quis elementum sit dignissim rhoncus amet. Arcu, mollis viverra feugiat cras
-									neque, gravida lectus. Proin sit feugiat vel porttitor. In ultrices magnis turpis
-									senectus dolor dui habitasse.</span><br /><br /><span>Quisque libero, leo volutpat nec
-									urna auctor adipiscing volutpat fermentum. Scelerisque nulla purus libero et pharetra
-									pretium volutpat. Lacus aenean odio consectetur quis. Pellentesque egestas dictum ligula
-									ullaorper urna bibendum matti consequat.</span></p>
+							<p style="word-break: break-word;"><span>Sabemos que todos los jóvenes tienen fortalezas y debilidades. Pero también hay necesidades que todos compartimos. Es por eso que hemos desarrollado distintos formatos para nuestras reuniones con el objetivo de abordar cada una de estas necesidades. Cultos de jóvenes, estudios bíblicos, actividades de comunidad, reuniones en casa y mucho más. Sin importar el formato, ¡Te invitamos a ser parte de La Gran Familia!</span></p>
 						</div>
-						<div class="bee-block bee-block-5 bee-button"><button class="btn btn-primary" data-aos="fade-right" data-aos-duration="1000"
-								href="http://www.example.com"
+						<div class="bee-block bee-block-5 bee-button">
+							<button class="btn btn-primary" data-aos="fade-right" data-aos-duration="1000"
 								style="font-size: 16px; background-color: #ea8422; border-bottom: 0px solid #8a3b8f; border-left: 0px solid #8a3b8f; border-radius: 0px; border-right: 0px solid #8a3b8f; border-top: 0px solid #8a3b8f; color: #ffffff; direction: ltr; font-family: inherit; max-width: 100%; padding-bottom: 5px; padding-left: 40px; padding-right: 40px; padding-top: 5px; width: auto; display: inline-block;"
-								target="_self"><span style="word-break: break-word; font-size: 16px; line-height: 200%;">Ver
-									Horarios</span></button>
+								target="_self"><span style="word-break: break-word; font-size: 16px; line-height: 200%;"><a href="https://www.instagram.com/gran.familia.oficial/" style="text-decoration: none; color: white !important;">Más información</a></span>
+							</button>
 						</div>
 					</div>
 					<div class="bee-col bee-col-3 bee-col-w2">
@@ -93,7 +80,7 @@
 			<div class="bee-row bee-row-5">
 
 			</div>
-			<div class="bee-row bee-row-6" data-aos="fade-right" data-aos-duration="1500">
+			<!-- <div class="bee-row bee-row-6" data-aos="fade-right" data-aos-duration="1500">
 				<div class="bee-row-content">
 					<div class="bee-col bee-col-1 bee-col-w12">
 						<div class="bee-block bee-block-1 bee-paragraph">
@@ -102,7 +89,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="bee-row bee-row-7">
 				<div class="bee-row-content">
 					<div class="bee-col bee-col-1 bee-col-w4" data-aos="fade-right" data-aos-duration="1000">
@@ -123,10 +110,7 @@
 						<div class="bee-block bee-block-4 bee-text">
 							<div class="bee-text-content"
 								style="line-height: 120%; font-size: 12px; font-family: inherit; color: #fafafa;">
-								<p style="font-size: 14px; line-height: 16px; text-align: center;">Lorem ipsum dolor sit
-									amet, consectetur adipiscing elit. Quis elementum sit dignissim rhoncus amet. Arcu,
-									mollis viverra feugiat cras neque, gravida lectus. Proin sit feugiat vel porttitor. In
-									ultrices magnis turpis senectus dolor dui habitasse.</p>
+								<p style="font-size: 14px; line-height: 16px; text-align: center;">Este es el grupo para estudiantes de enseñanza media en La Gran Familia. Este es un espacio seguro para todos aquellos que deseen conocer más a Dios, hablar sobre los temas que estás viviendo y por supuesto, para pasarlo increíble ¡Ven y sé parte!</p>
 							</div>
 						</div>
 					</div>
@@ -148,10 +132,7 @@
 						<div class="bee-block bee-block-4 bee-text">
 							<div class="bee-text-content"
 								style="line-height: 120%; font-size: 12px; font-family: inherit; color: #fafafa;">
-								<p style="font-size: 14px; line-height: 16px; text-align: center;">Lorem ipsum dolor sit
-									amet, consectetur adipiscing elit. Quis elementum sit dignissim rhoncus amet. Arcu,
-									mollis viverra feugiat cras neque, gravida lectus. Proin sit feugiat vel porttitor. In
-									ultrices magnis turpis senectus dolor dui habitasse.</p>
+								<p style="font-size: 14px; line-height: 16px; text-align: center;">Este es el grupo para estudiantes en etapa universitaria. Aquí podrás experimentar, junto a personas como tú, lo que significa ser comunidad. Es un grupo auténtico y con ganas de conocer y parecerse cada vez más a Jesús ¡Ven y sé parte!</p>
 							</div>
 						</div>
 					</div>
@@ -173,10 +154,7 @@
 						<div class="bee-block bee-block-4 bee-text">
 							<div class="bee-text-content"
 								style="line-height: 120%; font-size: 12px; font-family: inherit; color: #fafafa;">
-								<p style="font-size: 14px; line-height: 16px; text-align: center;">Lorem ipsum dolor sit
-									amet, consectetur adipiscing elit. Quis elementum sit dignissim rhoncus amet. Arcu,
-									mollis viverra feugiat cras neque, gravida lectus. Proin sit feugiat vel porttitor. In
-									ultrices magnis turpis senectus dolor dui habitasse.</p>
+								<p style="font-size: 14px; line-height: 16px; text-align: center;">Este es el grupo ideal para los jóvenes adultos, de entre 25 y 35 años. En una etapa en donde experimentamos tantos cambios, este se transforma en el mejor espacio para compartir experiencias, crecer en la fe y ser desafiado a más ¡Ven y sé parte!</p>
 							</div>
 						</div>
 					</div>
