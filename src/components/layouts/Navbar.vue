@@ -29,7 +29,7 @@
               </b-nav-item>
 
               <b-nav-item class="m-md-2 navLista">
-                <router-link class="nav-link"  to="">Misiones</router-link>
+                <router-link class="nav-link"  to="/misiones">Misiones</router-link>
               </b-nav-item>
 
               <!-- <b-nav-item class="m-md-2 navLista">

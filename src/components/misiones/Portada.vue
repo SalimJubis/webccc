@@ -192,8 +192,8 @@ Ir a las misiones nos permite ser testigos de primera mano de las necesidades y 
                     <div class="bee-col bee-col-3 bee-col-w7">
                         <div class="bee-block bee-block-1 bee-image"><img alt="City Photo Placeholder"
                                 class="bee-center bee-fixedwidth bee-fullwidthOnMobile"
-                                src="border-radius: 35px"
-                                style="max-width:714px;" /></div>
+                                src="https://images.unsplash.com/photo-1476304884326-cd2c88572c5f?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                                style="max-width:714px; border-radius: 35px" /></div>
                     </div>
                 </div>
             </div>
