@@ -15,7 +15,7 @@
 			<div class="bee-row-content">
 				<div class="bee-col bee-col-1 bee-col-w4">
 					<div class="bee-block bee-block-1 bee-image"><img alt="success story"
-							class="bee-center bee-autowidth" src="../../assets/consejeria.png" style="max-width:366px;" />
+							class="bee-center bee-autowidth" src="../../assets/img/consejeria.png" style="max-width:366px;" />
 					</div>
 				</div>
 				<div class="bee-col bee-col-2 bee-col-w8">

@@ -53,6 +53,10 @@
                         <div class="bee-block bee-block-2 bee-image" data-aos="fade-right" data-aos-duration="1000"><img alt="Celebrating Women Business Owners"
                                 class="bee-center bee-autowidth" src="@/assets/banderaMujeres.png" style="max-width:497px;" />
                         </div>
+						<br><br><br>
+						<div class="bee-block bee-block-2 bee-image" data-aos="fade-right" data-aos-duration="1000"><img alt="Celebrating Women Business Owners"
+                                class="bee-center bee-autowidth" src="@/assets/img/mujeressinfondo.png" style="max-width:1000px;" />
+                        </div>
                     </div>
                 </div>
             </div>
@@ -102,7 +106,7 @@
                     </div>
                     <div class="bee-col bee-col-3 bee-col-w5">
                         <div class="bee-block bee-block-1 bee-image"><img alt="Woman Florist Photo" class="bee-autowidth"
-                                src="@/assets/Emma.png" style="max-width:413px;" /></div>
+                                src="@/assets/img/cuadro.png" style="max-width:413px;" /></div>
                     </div>
                     <div class="bee-col bee-col-4 bee-col-w1">
                         <div class="bee-block bee-block-1 bee-divider">

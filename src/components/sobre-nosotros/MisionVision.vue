@@ -18,7 +18,7 @@
 				</div>
 				<div class="bee-col bee-col-2 bee-col-w7">
 					<div class="bee-block bee-block-1 bee-image"><img alt="" class="bee-center bee-fixedwidth"
-							src="https://img.freepik.com/foto-gratis/cerca-personas-que-vuelven-mas-fuertes-juntas_23-2149125885.jpg?w=1380&t=st=1676905653~exp=1676906253~hmac=3d0aec9355853d98f1e3143cb2427136866c825b4ae0dc6b29622d3f28c051aa"
+							src="@/assets/img/nosotros.jpg"
 							style="max-width:635px;" /></div>
 				</div>
 			</div>
@@ -49,7 +49,7 @@
 						<p  >Alcanzar a las personas del sector oriente de nuestra ciudad con el evangelio de Jesucristo, usando apasionadamente todos los medios y recursos posibles.</p>
 					</div>
 					<div class="bee-block bee-block-4 bee-image"><img alt="" class="bee-center bee-fixedwidth" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="300"
-							src="https://img.freepik.com/foto-gratis/fuerza-personas-manos-exito-reunion_1150-1690.jpg?w=1380&t=st=1676905738~exp=1676906338~hmac=e5b8a2ab391afbe37262a8e73c263862c60a2304474be4028edff4cd9aef5f10"
+							src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/260143659.jpg?k=37edcf1d4014076248e005de6f36117676487c1c60abb28d09c6206611d2c037&o=&hp=1"
 							style="max-width:512px;" /></div>
 				</div>
 				<div class="bee-col bee-col-2 bee-col-w6">
@@ -63,7 +63,7 @@
 						<p >Preparar nuestras vidas con arrepentimiento, ayuno y oración para el avivamiento espiritual prometido a nuestra iglesia, que traerá, salvación, sanidad y liberación a las personas de nuestras comunidades.</p>
 					</div>
 					<div class="bee-block bee-block-4 bee-image"><img alt="" class="bee-center bee-fixedwidth" data-aos="zoom-in" data-aos-duration="800"
-							src="https://img.freepik.com/foto-gratis/fuerza-personas-manos-exito-reunion_1150-1690.jpg?w=1380&t=st=1676905738~exp=1676906338~hmac=e5b8a2ab391afbe37262a8e73c263862c60a2304474be4028edff4cd9aef5f10"
+							src="https://images.unsplash.com/photo-1547382002-b908c9367d83?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 							style="max-width:512px;" /></div>
 				</div>
 			</div>

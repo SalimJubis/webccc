@@ -4,7 +4,7 @@
 			<div class="bee-row-content">
 				<div class="bee-col bee-col-1 bee-col-w6">
 					<div class="bee-block bee-block-1 bee-image"><img alt="Earth Day" class="bee-center bee-autowidth"
-							src="../../assets/cccAyuda.png" style="max-width:580px;" data-aos="fade-right" /></div>
+							src="../../assets/img/voluntarios.png" style="max-width:580px;" data-aos="fade-right" /></div>
 				</div>
 				<div class="bee-col bee-col-2 bee-col-w6">
 					<div class="bee-block bee-block-1 bee-heading" >
@@ -25,7 +25,7 @@
 						<div class="buttons">
 							<button type="button" class="btn btn-primary btn-lg" id="botonMedio" data-aos="fade-right"
 								data-aos-duration="1500">
-								<a href="#" target="_blank">¡Quiero ser parte!</a>
+								<a href="https://api.whatsapp.com/send?phone=56977946444&text=Hola! quiero saber más información CCC las condes." target="_blank">¡Quiero ser parte!</a>
 							</button>
 						</div>
 					</div>

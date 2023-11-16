@@ -24,7 +24,7 @@
 			<div class="bee-col bee-col-2 bee-col-w5">
 				<div class="bee-block bee-block-1 bee-image"><img alt="gardening"
 						class="bee-center bee-fixedwidth bee-fullwidthOnMobile"
-						src="https://images.unsplash.com/photo-1553012781-b47b6751792c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+						src="@/assets/img/historia.png"
 						style="max-width:440px;" data-aos="zoom-in" data-aos-duration="500"/></div>
 			</div>
 		</div>

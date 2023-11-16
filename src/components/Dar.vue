@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Portada />
     <Metodos />
     <div class="container">
       <hr class="separador" />
@@ -14,6 +15,7 @@
 <style scoped>
 </style>
 <script>
+import Portada from "./dar/portada.vue";
 import Metodos from "./dar/Metodos.vue";
 import Datos from "./dar/Datos.vue";
 import Bancos from "./dar/Bancos.vue";
@@ -21,6 +23,7 @@ import Bancos from "./dar/Bancos.vue";
 export default {
   name: "App",
   components: {
+    Portada,
     Metodos,
     Datos,
     Bancos,

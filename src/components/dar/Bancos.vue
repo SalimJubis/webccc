@@ -144,12 +144,12 @@
     display: none;
   }
   .tituloBanco {
-    font-family: "Poppins", sans-serif;
+    font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 300%;
     text-align: center;
-    color: rgb(90, 41, 0);
+    color: rgb(0, 99, 13);
   }
 
   .banco {

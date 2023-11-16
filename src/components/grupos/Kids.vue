@@ -85,7 +85,7 @@
                     <div class="bee-col bee-col-1 bee-col-w4" data-aos="fade-right" data-aos-duration="1000">
                         <div class="bee-block bee-block-1 bee-image"><img alt="Sponsoring a Child"
                                 class="bee-center bee-fixedwidth bee-fullwidthOnMobile"
-                                src="https://images.unsplash.com/photo-1614113036347-9f60df80730a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2697&q=80"
+                                src="@/assets/img/semillitas.jpg"
                                 style="max-width:472px;" /></div>
                         <div class="bee-block bee-block-2 bee-divider">
                             <div class="spacer" style="height:0px;"></div>

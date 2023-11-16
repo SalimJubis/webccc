@@ -43,7 +43,7 @@
                         </div>
                         <div class="bee-block bee-block-6 bee-heading" data-aos="fade-right" data-aos-duration="2000">
                             <h1
-                                style="color:#000000;direction:ltr;font-family:Montserrat, Trebuchet MS, Lucida thin, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;font-size:16px;font-weight:normal;letter-spacing:1px;line-height:150%;text-align:left;margin-top:0;margin-bottom:0;">
+                                style="direction:ltr;font-family:Montserrat, Trebuchet MS, Lucida thin, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;font-size:16px;font-weight:normal;letter-spacing:1px;line-height:150%;text-align:left;margin-top:0;margin-bottom:0;">
                                 <span class="tinyMce-placeholder">Los grupos en casa acercan la glesia al lugar donde tu
                                     vives. Tenemos casas en Ñuñoa, La Reina, Las Condes, Vitacura y Chicureo.</span>
                             </h1>
@@ -57,7 +57,7 @@
                             <div class="spacer" style="height:20px;"></div>
                         </div>
                         <div class="bee-block bee-block-2 bee-image"><img alt="Woman Holding Brush And Palette Photo"
-                                class="bee-center bee-autowidth" src="@/assets/photo-1-lp.png" style="max-width:600px;" />
+                                class="bee-center bee-autowidth" src="@/assets/img/crece1.png" style="max-width:600px;" />
                         </div>
                     </div>
                     <div class="bee-col bee-col-4 bee-col-w1">
@@ -97,7 +97,7 @@
                             <div class="spacer" style="height:20px;"></div>
                         </div>
                         <div class="bee-block bee-block-2 bee-image"><img alt="Dots Illustration"
-                                class="bee-center bee-autowidth" src="@/assets/dots-LP.png" style="max-width:220px;" />
+                                class="bee-center bee-autowidth" src="@/assets/img/dots.png" style="max-width:220px;" />
                         </div>
                     </div>
                     <div class="bee-col bee-col-3 bee-col-w6">
@@ -116,7 +116,7 @@
                             <div class="spacer" style="height:20px;"></div>
                         </div>
                         <div class="bee-block bee-block-2 bee-image"><img alt="Dots Illustration"
-                                class="bee-center bee-autowidth" src="@/assets/5290e001-96e1-4ebc-90a0-d930f1031cc0.png"
+                                class="bee-center bee-autowidth" src="@/assets/img/dots.png"
                                 style="max-width:220px;" /></div>
                     </div>
                     <div class="bee-col bee-col-5 bee-col-w1">
@@ -172,7 +172,7 @@
                     </div>
                     <div class="bee-col bee-col-2 bee-col-w4">
                         <div class="bee-block bee-block-1 bee-image"><img alt="Woman Sitting In Artist Studio Photo"
-                                class="bee-autowidth" src="@/assets/photo-left.png" style="max-width:307px;" /></div>
+                                class="bee-autowidth" src="@/assets/img/crece2.png" style="max-width:307px;" /></div>
                         <div class="bee-block bee-block-2 bee-divider">
                             <div class="spacer" style="height:30px;"></div>
                         </div>
@@ -245,7 +245,7 @@
                     <div class="bee-col bee-col-3 bee-col-w4">
                         <div class="bee-block bee-block-1 bee-image"><a href="Woman Painting On An Easle Photo"
                                 target="_self"><img alt="Making A Bowl On A Spinning Wheel Photo"
-                                    class="bee-right bee-autowidth" src="@/assets/photo-right.png"
+                                    class="bee-right bee-autowidth" src="@/assets/img/crece3.png"
                                     style="max-width:306px;" /></a></div>
                         <div class="bee-block bee-block-2 bee-divider">
                             <div class="spacer" style="height:30px;"></div>
@@ -316,15 +316,16 @@
 .bee-row-9 {
     background-repeat: no-repeat
 }
-
+p{
+    
+}
 .bee-button .content {
     text-align: center
 }
 
 #creces {
     background-color: #ffffff;
-    color: #000;
-    font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif
+    font-family: Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif
 }
 
 .bee-row-5 .bee-col-2 .bee-block-4 a,
@@ -564,7 +565,7 @@ p {
 .btn {
     margin: 0 auto;
     border-radius: 50px !important;
-    background-color: #efd3b6 !important;
+    background-color: tomato !important;
     border: none;
     transition: 1s cubic-bezier(0.445, 0.05, 0.55, 0.95);
     transition: 0.2s;

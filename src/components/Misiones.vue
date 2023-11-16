@@ -1,9 +1,6 @@
 <template>
     <div>
         <Portada />
-        <div class="container">
-            <hr class="separador" />
-        </div>
     </div>
 </template>
 

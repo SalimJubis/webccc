@@ -21,14 +21,14 @@
 						<div class="buttons">
 							<button type="button" class="btn btn-primary btn-lg"   id="botonMedio" data-aos="fade-right"
 								data-aos-duration="1500">
-								<a href="#" target="_blank">Más información</a>
+								<a href="/dar" target="_blank">Más información</a>
 							</button>
 						</div>
 					</div>
 				</div>
 				<div class="bee-col bee-col-1 bee-col-w6">
 					<div class="bee-block bee-block-1 bee-image"><img alt="Earth Day" class="bee-center bee-autowidth"
-							src="../../assets/cccAyuda.png" style="max-width:580px;" data-aos="fade-right" /></div>
+							src="../../assets/img/generosidad.png" style="max-width:580px;" data-aos="fade-right" /></div>
 				</div>
 			</div>
 		</div>

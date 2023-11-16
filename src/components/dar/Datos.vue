@@ -57,9 +57,6 @@
       </div>
       <div class="col-md-1 ocultar-div">
         <button
-          data-aos="fade-left"
-          data-aos-duration="1500"
-          data-aos-delay="500"
           type="button"
           class="btn btn-secondary portapapeles"
           data-bs-toggle="popover"
@@ -74,7 +71,9 @@
     </div>
     <br />
     <div class="row justify-content-center">
-      <div class="col-md-8 banco">
+      <div class="col-md-8 banco" data-aos="fade-right"
+      data-aos-duration="1500"
+      data-aos-delay="700">
         Rut: <span style="color: grey">65062463-7</span>
       </div>
       <div class="col-md-1 ocultar-div">
@@ -93,7 +92,9 @@
     </div>
     <br />
     <div class="row justify-content-center">
-      <div class="col-md-8 banco">
+      <div class="col-md-8 banco" data-aos="fade-right"
+      data-aos-duration="1500"
+      data-aos-delay="900">
         Nombre: <span style="color: grey">Iglesia CCC Las Condes</span>
       </div>
       <div class="col-md-1 ocultar-div">
@@ -112,7 +113,9 @@
     </div>
     <br />
     <div class="row justify-content-center">
-      <div class="col-md-8 banco">
+      <div class="col-md-8 banco" data-aos="fade-right"
+      data-aos-duration="1500"
+      data-aos-delay="1100">
         Mail: <span style="color: grey">lascondesiglesiaCCC@gmail.com</span>
       </div>
       <div class="col-md-1 ocultar-div">
@@ -149,7 +152,7 @@
 </template>
 <style scoped>
 .tituloOfrenda {
-  font-family: "Poppins", sans-serif;
+  font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;
   font-weight: 700;
   font-style: normal;
   font-size: 300%;
@@ -180,10 +183,6 @@
 
 #btn1 {
   border: none;
-  background-color: rgba(255, 99, 71, 0.676);
-}
-
-#btn1:hover {
   background-color: tomato;
 }
 

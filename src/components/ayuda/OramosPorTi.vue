@@ -43,7 +43,7 @@
 				</div>
 				<div class="bee-col bee-col-2 bee-col-w6">
 					<div class="bee-block bee-block-1 bee-image"><img alt="Earth Day" class="bee-center bee-autowidth"
-							src="../../assets/oramosAyuda.png" style="max-width:561px;" /></div>
+							src="../../assets/img/oracion.png" style="max-width:561px;" /></div>
 				</div>
 			</div>
 		</div>

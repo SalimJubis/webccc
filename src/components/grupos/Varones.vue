@@ -30,8 +30,8 @@
                             <div class="spacer" style="height:15px;"></div>
                         </div>
                         <div class="bee-block bee-block-7 bee-image" data-aos="fade-right" data-aos-duration="1000"><img alt="Coffee Mug"
-                                class="bee-center bee-fixedwidth bee-fullwidthOnMobile" src="@/assets/coffee_mug_1.png"
-                                style="max-width:432px;" /></div>
+                                class="bee-center bee-fullwidthOnMobile" src="@/assets/img/varonescollage.png"
+                                 /></div>
                         <div class="bee-block bee-block-8 bee-divider">
                             <div class="spacer" style="height:40px;"></div>
                         </div>
@@ -109,7 +109,7 @@
                     </div>
                     <div class="bee-col bee-col-3 bee-col-w5">
                         <div class="bee-block bee-block-1 bee-image"><img alt=""
-                                class="bee-center bee-fixedwidth bee-fullwidthOnMobile" src="@/assets/fav_coffee.png"
+                                class="bee-center bee-fixedwidth bee-fullwidthOnMobile" src="@/assets/img/largovarones.png"
                                 style="max-width:480px;" /></div>
                     </div>
                 </div>

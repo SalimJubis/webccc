@@ -23,7 +23,7 @@
 				<div class="bee-row-content">
 					<div class="bee-col bee-col-1 bee-col-w6">
 						<div class="bee-block bee-block-1 bee-image"><img alt="Hero Image" class="bee-center bee-autowidth"
-								src="https://images.unsplash.com/photo-1549056238-18b816751fd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80"
+								src="@/assets/img/jovenesLargo.jpg"
 								style="max-width:512px;" /></div>
 					</div>
 					<div class="bee-col bee-col-2 bee-col-w6">
@@ -108,7 +108,7 @@
 					<div class="bee-col bee-col-1 bee-col-w4" data-aos="fade-right" data-aos-duration="1000">
 						<div class="bee-block bee-block-1 bee-image"><img alt="I'm an image"
 								class="bee-center bee-autowidth"
-								src="https://images.unsplash.com/photo-1570616969692-54d6ba3d0397?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2622&q=80"
+								src="@/assets/img/led.jpg"
 								style="max-width:316px;" /></div>
 						<div class="bee-block bee-block-2 bee-text">
 							<div class="bee-text-content"
@@ -133,7 +133,7 @@
 					<div class="bee-col bee-col-2 bee-col-w4" data-aos="fade-right" data-aos-duration="1500">
 						<div class="bee-block bee-block-1 bee-image"><img alt="I'm an image"
 								class="bee-center bee-autowidth"
-								src="https://images.unsplash.com/photo-1543269865-cbf427effbad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80"
+								src="@/assets/img/34.jpg"
 								style="max-width:316px;" /></div>
 						<div class="bee-block bee-block-2 bee-text">
 							<div class="bee-text-content"

@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <br><br>
     <div class="row">
       <div class="tuto">¿Como Ofrendar?</div>
       <div style="margin: 0 auto !important">
@@ -30,7 +31,7 @@
                 cual tiene como objetivo bendecir y ayudar a todas las familias
                 que estén pasando por dificultades y escasez. <br />
                 Para que podamos distinguir que tu ofrenda es para esta causa
-                termina el monto de tu transferencia con un <strong>$1</strong>.
+                termina el monto de tu transferencia con un <strong>$10</strong>.
               </p>
               <h4 id="wow1">Ejemplo de monto:</h4>
               <div class="d-grid gap-2">
@@ -51,7 +52,7 @@
                   >aquí</a
                 >. <br />
                 Para que podamos distinguir que tu ofrenda es para esta causa
-                termina el monto de tu transferencia con un <strong>$2</strong>.
+                termina el monto de tu transferencia con un <strong>$20</strong>.
               </p>
               <h4>Ejemplo de monto:</h4>
               <div class="d-grid gap-2">
@@ -68,7 +69,7 @@
 </template>
 <style scoped>
 .tuto {
-  font-family: "Poppins", sans-serif;
+  font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;
   font-weight: 700;
   font-style: normal;
   font-size: 300%;

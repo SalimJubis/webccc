@@ -43,12 +43,12 @@
               </b-nav-item>
 
               <b-nav-item class="m-md-2 navLista">
-                <router-link class="nav-link"  to="">Misiones</router-link>
+                <router-link class="nav-link"  to="/misiones">Misiones</router-link>
               </b-nav-item>
 
-              <b-nav-item class="m-md-2 navLista">
+              <!-- <b-nav-item class="m-md-2 navLista">
                 <router-link class="nav-link"  to="">Somos Parte</router-link>
-              </b-nav-item>
+              </b-nav-item> -->
 
               <!-- <b-nav-item right class="m-md-2 navLista">
                 <router-link class="nav-link"  to="/formacion">Formación</router-link>

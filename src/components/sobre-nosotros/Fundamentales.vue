@@ -270,8 +270,7 @@
 					</div>
 					<div class="bee-col bee-col-3 bee-col-w6">
 						<div class="bee-block bee-block-1 bee-paragraph">
-							<p>Jesús de Nazareth es el Hijo de Dios, que se hizo hombre, nació y vivió hace más dos mil
-								años; que murió en la cruz, pero resucitó para volver en gloria a la presencia de Dios Padre
+							<p>La Iglesia es el cuerpo de Cristo, la morada de Dios por el Espíritu Santo, con el encargo divino de llevar a cabo su gran comisión. Todo creyente, nacido del Espíritu Santo, es parte integral de la asamblea general e iglesia de los primogénitos, que están inscritos en los cielos.
 							</p>
 						</div>
 					</div>
@@ -296,8 +295,7 @@
 					</div>
 					<div class="bee-col bee-col-3 bee-col-w6">
 						<div class="bee-block bee-block-1 bee-paragraph">
-							<p>Jesús de Nazareth es el Hijo de Dios, que se hizo hombre, nació y vivió hace más dos mil
-								años; que murió en la cruz, pero resucitó para volver en gloria a la presencia de Dios Padre
+							<p>Nuestro Señor ha provisto un ministerio que constituye un llamamiento divino y ordenado con el cuádruple propósito de dirigir a la iglesia.
 							</p>
 						</div>
 					</div>
@@ -322,8 +320,7 @@
 					</div>
 					<div class="bee-col bee-col-3 bee-col-w6">
 						<div class="bee-block bee-block-1 bee-paragraph">
-							<p>Jesús de Nazareth es el Hijo de Dios, que se hizo hombre, nació y vivió hace más dos mil
-								años; que murió en la cruz, pero resucitó para volver en gloria a la presencia de Dios Padre
+							<p>La sanidad divina es una parte integral del evangelio. La liberación de la enfermedad ha sido provista en la expiación y es el privilegio de todos los creyentes.
 							</p>
 						</div>
 					</div>
@@ -348,8 +345,7 @@
 					</div>
 					<div class="bee-col bee-col-3 bee-col-w6">
 						<div class="bee-block bee-block-1 bee-paragraph">
-							<p>Jesús de Nazareth es el Hijo de Dios, que se hizo hombre, nació y vivió hace más dos mil
-								años; que murió en la cruz, pero resucitó para volver en gloria a la presencia de Dios Padre
+							<p>La resurrección de los que han muerto en Cristo y su arrebatamiento junto con los que estén vivos cuando sea la venida del Señor es la esperanza inminente y bienaventurada de la Iglesia.
 							</p>
 						</div>
 					</div>
@@ -374,8 +370,7 @@
 					</div>
 					<div class="bee-col bee-col-3 bee-col-w6">
 						<div class="bee-block bee-block-1 bee-paragraph">
-							<p>Jesús de Nazareth es el Hijo de Dios, que se hizo hombre, nació y vivió hace más dos mil
-								años; que murió en la cruz, pero resucitó para volver en gloria a la presencia de Dios Padre
+							<p>La segunda venida de Cristo incluye el rapto de los santos, que es nuestra esperanza bienaventurada, seguido por el regreso visible de Cristo con sus santos para reinar sobre la tierra por mil años.
 							</p>
 						</div>
 					</div>
@@ -400,8 +395,7 @@
 					</div>
 					<div class="bee-col bee-col-3 bee-col-w6">
 						<div class="bee-block bee-block-1 bee-paragraph">
-							<p>Jesús de Nazareth es el Hijo de Dios, que se hizo hombre, nació y vivió hace más dos mil
-								años; que murió en la cruz, pero resucitó para volver en gloria a la presencia de Dios Padre
+							<p>Habrá un juicio final en el que los pecadores muertos serán resucitados y juzgados según sus obras. Todo aquel cuyo nombre no se halle en el Libro de la Vida, será confinado a sufrir castigo eterno en el lago que arde con fuego y azufre, que es la muerte segunda, junto con el diablo y sus ángeles, la bestia y el falso profeta.
 							</p>
 						</div>
 					</div>
@@ -426,8 +420,7 @@
 					</div>
 					<div class="bee-col bee-col-3 bee-col-w6">
 						<div class="bee-block bee-block-1 bee-paragraph">
-							<p>Jesús de Nazareth es el Hijo de Dios, que se hizo hombre, nació y vivió hace más dos mil
-								años; que murió en la cruz, pero resucitó para volver en gloria a la presencia de Dios Padre
+							<p>"Pero nosotros esperamos, según sus promesas, cielos nuevos y tierra nueva, en los cuales mora la justicia".
 							</p>
 						</div>
 					</div>

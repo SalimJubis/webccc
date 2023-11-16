@@ -52,11 +52,11 @@
 				</div>
 				<div class="bee-col bee-col-2 bee-col-w3">
 					<div class="bee-block bee-block-1 bee-image"><img alt="Cat eating" class="bee-center bee-autowidth"
-							src="../../assets/pilar1.png" style="max-width:330px;"  data-aos-duration="800" data-aos-delay="300"/></div>
+							src="../../assets/img/pilar1.png" style="max-width:330px;"  data-aos-duration="800" data-aos-delay="300"/></div>
 				</div>
 				<div class="bee-col bee-col-3 bee-col-w3">
 					<div class="bee-block bee-block-1 bee-image"><img alt="Dog with a toy"
-							class="bee-center bee-autowidth" src="../../assets/pilar2.png" style="max-width:330px;"  data-aos-duration="800"/></div>
+							class="bee-center bee-autowidth" src="../../assets/img/pilar2.png" style="max-width:330px;"  data-aos-duration="800"/></div>
 				</div>
 				<div class="bee-col bee-col-4 bee-col-w3">
 					<div class="bee-block bee-block-1 bee-text">
@@ -99,7 +99,7 @@
 				</div>
 				<div class="bee-col bee-col-2 bee-col-w3">
 					<div class="bee-block bee-block-1 bee-image"><img alt="Cat eating" class="bee-center bee-autowidth"
-							src="../../assets/pilar3.png" style="max-width:330px;"  data-aos-duration="800" data-aos-delay="300"/></div>
+							src="../../assets/img/pilar3.png" style="max-width:330px;"  data-aos-duration="800" data-aos-delay="300"/></div>
 				</div>
 				<div class="bee-col bee-col-3 bee-col-w3">
 					<div class="bee-block bee-block-1 bee-image"><img alt="Dog with a toy"

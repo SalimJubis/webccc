@@ -94,30 +94,27 @@
                   </div>
                   <ul>
                     <li>
-                      <a href="#">Historia</a>
+                      <a href="/">Inicio</a>
                     </li>
                     <li>
-                      <a href="#">Misión y Visión</a>
+                      <a href="/nosotros">Nosotros</a>
                     </li>
                     <li>
-                      <a href="#">Pilares</a>
+                      <a href="/ayuda">Servicio</a>
                     </li>
                     <li>
-                      <a href="#">CCC Ayuda</a>
+                      <a href="/grupos">Grupos por edades</a>
                     </li>
                   </ul>
                   <ul>
                     <li>
-                      <a href="#">Consejería</a>
+                      <a href="/grupos-en-casa">Grupos crece</a>
                     </li>
                     <li>
-                      <a href="#">Testimonios</a>
+                      <a href="/misiones">Misiones</a>
                     </li>
                     <li>
-                      <a href="#">Dar</a>
-                    </li>
-                    <li>
-                      <a href="#">Mi CCC</a>
+                      <a href="/dar">Dar</a>
                     </li>
                   </ul>
                 </div>
@@ -132,11 +129,7 @@
                   </div>
                   <p>
                     <!-- Don’t miss to subscribe to our new feeds, kindly fill the form below. -->
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Mollitia nulla quas perferendis maxime deleniti aliquam
-                    molestiae perspiciatis. Vel eos tempore molestias
-                    repellendus dolor labore adipisci illum cumque, ipsam
-                    recusandae quia?
+                    Te invitamos a ser parte de nuestra comunidad. Somos una familia de fe que comparte el gozo de la salvación y anhela mostrar la gracia que encontramos en Jesús al transformar nuestras vidas y restaurar nuestros corazones. Toma un tiempo para conocer revisando esta página. Cuando vengas esperamos que te sientas como en casa.
                   </p>
 
                   <!-- End form -->
@@ -157,23 +150,23 @@
         <div class="container">
           <div class="row">
             <div class="col-md-6">
-              <span>Copyright © 2022, All Right Reserved CCC</span>
+              <span>Copyright © 2023, All Right Reserved CCC</span>
             </div>
             <!-- End Col -->
             <div class="col-md-6">
               <div class="copyright-menu">
                 <ul>
                   <li>
-                    <a href="#">Inicio</a>
+                    <a href="/">Inicio</a>
                   </li>
                   <li>
-                    <a href="#">Mi CCC</a>
+                    <a href="/nosotros">Nosotros</a>
                   </li>
                   <li>
-                    <a href="#">Cultos</a>
+                    <a href="/ayuda">Servicio</a>
                   </li>
                   <li>
-                    <a href="#">Dar</a>
+                    <a href="/dar">Dar</a>
                   </li>
                 </ul>
               </div>
