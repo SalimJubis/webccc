@@ -69,16 +69,14 @@
                                 <strong>Un lugar para Compartir y crecer</strong> </h1>
                         </div>
                         <div class="bee-block bee-block-3 bee-paragraph" data-aos="fade-right" data-aos-duration="2000">
-                            <p style="word-break:break-word;"><span>I'm Lorem ipsum dolor sit amet, consectetuer adipiscing
-                                    elit. Aenean commodo ligula eget dolor. Aenean massa.</span></p>
+                            <p style="word-break:break-word;"><span>Tenemos un ambiente confiable para hombres que desean poner su confianza en Dios. Tomamos tiempo para:</span></p>
                         </div>
                         <div class="bee-block bee-block-4 bee-icons" data-aos="fade-right" data-aos-duration="2000">
                             <div class="bee-icon bee-icon-last">
                                 <div class="bee-content">
                                     <div class="bee-icon-image"><img alt="Bulleting point" height="16px"
                                             src="@/assets/bulleting_point.png" width="auto" /></div>
-                                    <div class="bee-icon-label bee-icon-label-right">I'm Lorem ipsum dolor sit amet,
-                                        consectetuer adipiscing elit.</div>
+                                    <div class="bee-icon-label bee-icon-label-right">Reflexionar en la Palabra de Dios.</div>
                                 </div>
                             </div>
                         </div>
@@ -87,8 +85,7 @@
                                 <div class="bee-content">
                                     <div class="bee-icon-image"><img alt="Bulleting point" height="16px"
                                             src="@/assets/bulleting_point.png" width="auto" /></div>
-                                    <div class="bee-icon-label bee-icon-label-right">I'm Lorem ipsum dolor sit amet,
-                                        consectetuer.</div>
+                                    <div class="bee-icon-label bee-icon-label-right">Apoyarnos  y acopañarnos mutuamente.</div>
                                 </div>
                             </div>
                         </div>
@@ -97,7 +94,7 @@
                                 <div class="bee-content">
                                     <div class="bee-icon-image"><img alt="Bulleting point" height="16px"
                                             src="@/assets/bulleting_point.png" width="auto" /></div>
-                                    <div class="bee-icon-label bee-icon-label-right">I'm Lorem ipsum dolor sit amet,</div>
+                                    <div class="bee-icon-label bee-icon-label-right">Buscar y orar a Dios por las necesidades.</div>
                                 </div>
                             </div>
                         </div>

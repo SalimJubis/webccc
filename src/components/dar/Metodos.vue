@@ -2,7 +2,7 @@
   <div class="container">
     <br><br>
     <div class="row">
-      <div class="tuto">¿Como Ofrendar?</div>
+      <div class="tuto">¿Cómo puedes demostrar tu generosidad?</div>
       <div style="margin: 0 auto !important">
         <section id="sec">
           <ul>

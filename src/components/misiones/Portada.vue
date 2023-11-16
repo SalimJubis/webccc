@@ -181,9 +181,7 @@
                             <div class="spacer" style="height:50px;"></div>
                         </div>
                         <div class="bee-block bee-block-4 bee-paragraph">
-                            <p style="word-break: break-word;"><span style="color: #f8f8f9;">Uno de nuestros pilares es ir, ya que participar activamente  en las misiones implica salir de nuestra zona de confort y adentrarnos en lugares desconocidos, culturas diferentes y situaciones desafiantes. Es a través de esta experiencia directa que podemos tener un impacto real en la vida de las personas y compartir el mensaje de amor y esperanza que Jesús nos ha dado, en ir y hacer discípulos a todas las naciones. 
-
-Ir a las misiones nos permite ser testigos de primera mano de las necesidades y dificultades que enfrentamos.</span></p>
+                            <p style="word-break: break-word;"><span style="color: #f8f8f9;">Ir significa participar activamente en las misiones. Esto implica salir de nuestra zona de confort y adentrarnos en lugares desconocidos, culturas diferentes y situaciones desafiantes. Buscamos que nuestra vidas impacten a las personas porque vamos donde ellas están.</span></p>
                         </div>
                         <div class="bee-block bee-block-5 bee-divider">
                             <div class="spacer" style="height:50px;"></div>
@@ -242,11 +240,7 @@ Ir a las misiones nos permite ser testigos de primera mano de las necesidades y 
                             <div class="spacer" style="height:60px;"></div>
                         </div>
                         <div class="bee-block bee-block-4 bee-paragraph">
-                            <p style="word-break: break-word;"><span style="color: #f8f8f9;">Nuestro segundo pilar es conectar, lo cual implica establecer vínculos significativos y relaciones sólidas tanto con los misioneros que apoyamos, cómo también a las personas que servimos a nuestro alrededor.
-
-Este conectar implica acercarnos a ellos de manera genuina, escuchar sus historias, comprender sus necesidades y brindarles apoyo emocional y espiritual. A través de estas conexiones, podemos transmitir el amor de Cristo de una manera tangible y relevante.
-
-Además, también es esencial conectar con aquellos que nos apoyan en nuestra labor misionera. Esto incluye a nuestra congregación, a otros. Establecer conexiones sólidas con ellos nos permite compartir nuestras experiencias en el campo, informarles sobre el progreso de nuestras misiones y agradecerles por su apoyo.</span></p>
+                            <p style="word-break: break-word;"><span style="color: #f8f8f9;">Conectar significa establecer vínculos significativos y relaciones sólidas tanto con los misioneros que apoyamos. Queremos que sea de manera genuina, conociendo sus historias, comprendiendo sus necesidades y brindarles apoyo emocional y espiritual.</span></p>
                         </div>
                         <div class="bee-block bee-block-5 bee-divider bee-desktop_hide">
                             <div class="spacer" style="height:80px;"></div>
@@ -279,15 +273,7 @@ Además, también es esencial conectar con aquellos que nos apoyan en nuestra la
                             <div class="spacer" style="height:50px;"></div>
                         </div>
                         <div class="bee-block bee-block-5 bee-paragraph">
-                            <p style="word-break: break-word;"><span style="color: #f8f8f9;">Y nuestro tercer pilar es amar, el cual es el motor que impulsa nuestra labor misionera y nos guía en cada paso que damos. Es a través del amor que podemos realmente impactar vidas y compartir el mensaje de esperanza y salvación.
-
-Amar implica compromiso y entrega total de nuestro equipo.Significa estar dispuestos a dejar nuestras comodidades para servir a aquellos que más lo necesitan. Amar significa estar dispuestos a sacrificarnos por el bienestar de otros y mostrarles el amor incondicional de Dios.
-
-Al amar, podemos conectarnos e ir al campo para conectarnos con las personas en un nivel más profundo y genuino, y construir relaciones significativas basadas en el amor y la confianza. 
-
-El amor es el pilar que sostiene nuestro equipo de misiones. Es la fuerza que nos impulsa a seguir adelante, a superar obstáculos y a marcar la diferencia en el mundo. Que el amor sea siempre nuestro fundamento y nuestra guía en todo lo que hacemos como equipo de misiones.
-
-¡Que el amor de Dios nos inspire y nos fortalezca en nuestra labor misionera!</span></p>
+                            <p style="word-break: break-word;"><span style="color: #f8f8f9;">Amar es el motor que impulsa nuestra labor misionera y nos guía en cada paso  que damos. Es a través del amor que podemos realmente impactar vidas y compartir el mensaje de esperanza y salvación. Amar demanda una entrega total y estar dispuestos a sacrificarnos por el bienestar de otros. Es mostrar como es Dios.</span></p>
                         </div>
                         <div class="bee-block bee-block-6 bee-divider">
                             <div class="spacer" style="height:50px;"></div>

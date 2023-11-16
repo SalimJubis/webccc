@@ -25,7 +25,7 @@
 						<div class="buttons">
 							<button type="button" class="btn btn-primary btn-lg" id="botonMedio" data-aos="fade-right"
 								data-aos-duration="1500">
-								<a href="https://api.whatsapp.com/send?phone=56977946444&text=Hola! quiero saber más información CCC las condes." target="_blank">¡Quiero ser parte!</a>
+								<a href="https://api.whatsapp.com/send?phone=56977946444&text=Hola! quiero saber más información CCC las condes." target="_blank">¡Quiero participar!</a>
 							</button>
 						</div>
 					</div>
