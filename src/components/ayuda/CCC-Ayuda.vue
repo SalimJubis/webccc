@@ -23,9 +23,8 @@
 									style="font-size: 18px; line-height: 27px;">Tenemos voluntarios para limpiar nuestro lugar, para montar y desmontar lo que se necesita en los cultos, para evangelizar, para visitar hospitales, para trabajo de carpintería, para trabajos de gasfitería, para trabajos de albañilería, etc.</span></p>
 						</div>
 						<div class="buttons">
-							<button type="button" class="btn btn-primary btn-lg" id="botonMedio" data-aos="fade-right"
-								data-aos-duration="1500">
-								<a href="https://api.whatsapp.com/send?phone=56977946444&text=Hola! quiero saber más información CCC las condes." target="_blank">¡Quiero participar!</a>
+							<button type="button" class="btn btn-primary btn-lg" id="botonMedio" data-aos="fade-right" data-aos-duration="1500" onclick="window.open('https://forms.gle/Z6f4Sj3b3sgLzQMT6', '_blank')">
+								¡Quiero participar!
 							</button>
 						</div>
 					</div>

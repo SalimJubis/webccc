@@ -17,15 +17,15 @@
               </b-nav-item>
 
               <b-nav-item class="m-md-2 navLista">
-                <router-link class="nav-link" to="/ayuda">Servicio</router-link>
-              </b-nav-item>
-
-              <b-nav-item class="m-md-2 navLista">
                 <router-link class="nav-link"  to="/grupos">Grupos por edades</router-link>
               </b-nav-item>
 
               <b-nav-item class="m-md-2 navLista">
                 <router-link class="nav-link"  to="/grupos-en-casa">Grupos crece</router-link>
+              </b-nav-item>
+
+              <b-nav-item class="m-md-2 navLista">
+                <router-link class="nav-link" to="/ayuda">Servicio</router-link>
               </b-nav-item>
 
               <b-nav-item class="m-md-2 navLista">

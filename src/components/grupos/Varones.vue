@@ -98,13 +98,15 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="bee-block bee-block-7 bee-button" data-aos="fade-right" data-aos-duration="2000"><button class="btn btn-primary" href="www.example.com" 
-                                style="font-size: 16px; background-color: #efd3b6; border-radius: 4px; color: #ffffff; direction: ltr; font-family: inherit; max-width: 100%; padding-bottom: 5px; padding-left: 20px; padding-right: 20px; padding-top: 5px; width: auto; display: inline-block;"
-                                target="_self"><span
-                                    style="word-break: break-word; font-size: 16px; line-height: 200%;">¡Quiero
-                                    participar!</span></button></div>
+                        <div class="bee-block bee-block-7 bee-button" data-aos="fade-right" data-aos-duration="2000">
+							<button class="btn btn-primary"
+								style="font-size: 16px; background-color: #efd3b6; border-radius: 4px; color: #ffffff; direction: ltr; font-family: inherit; max-width: 100%; padding-bottom: 5px; padding-left: 20px; padding-right: 20px; padding-top: 5px; width: auto; display: inline-block;"
+								onclick="window.open('https://api.whatsapp.com/send?phone=56983241965&text=Hola! Quiero participar de las reuniones de hombres!', '_blank')">
+								<span style="word-break: break-word; font-size: 16px; line-height: 200%;">¡Quiero participar!</span>
+							</button>
+						</div>
                     </div>
-                    <div class="bee-col bee-col-3 bee-col-w5">
+                    <div class="bee-col bee-col-3 bee-col-w5"> 
                         <div class="bee-block bee-block-1 bee-image"><img alt=""
                                 class="bee-center bee-fixedwidth bee-fullwidthOnMobile" src="@/assets/img/largovarones.png"
                                 style="max-width:480px;" /></div>
