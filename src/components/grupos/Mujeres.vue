@@ -96,13 +96,15 @@
                         <div class="bee-block bee-block-4 bee-paragraph" data-aos="fade-right" data-aos-duration="1500">
                             <p style="word-break:break-word;"><span style="color:#653725;">Todos los lunes se juntan las mujeres de la iglesia a las 19 horas en la Capitanía 500. En esta reunión tenemos tiempo para compartir, vivencias y un motivante mensaje de la Palabra de Dios.</span></p>
                         </div>
-                        <div class="bee-block bee-block-5 bee-button"><button class="btn btn-primary" data-aos="fade-right" data-aos-duration="1500"
-                                href="http://www.example.com"
-                                style="font-size: 18px; background-color: #d2a699; border-bottom: 0px solid transparent; border-left: 0px solid transparent; border-radius: 0px; border-right: 0px solid transparent; border-top: 0px solid transparent; color: #ffffff; direction: ltr; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; max-width: 100%; padding-bottom: 5px; padding-left: 20px; padding-right: 20px; padding-top: 5px; width: auto; display: inline-block;"
-                                target="_self"><span
-                                    style="word-break: break-word; font-size: 18px; line-height: 200%;"><span
-                                        style="font-size: 18px;"><strong style="font-size: 18px;"><span
-                                                style="font-size: 18px;">Inscribete aquí</span></strong></span></span></button></div>
+                        <div class="bee-block bee-block-5 bee-button">
+							<button class="btn btn-primary" data-aos="fade-right" data-aos-duration="1500"
+									style="font-size: 18px; background-color: #d2a699; border-bottom: 0px solid transparent; border-left: 0px solid transparent; border-radius: 0px; border-right: 0px solid transparent; border-top: 0px solid transparent; color: #ffffff; direction: ltr; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; max-width: 100%; padding-bottom: 5px; padding-left: 20px; padding-right: 20px; padding-top: 5px; width: auto; display: inline-block;"
+									onclick="window.open('https://api.whatsapp.com/send?phone=56983241965&text=Hola! Quiero participar de las reuniones de mujeres!', '_blank')">
+								<span style="word-break: break-word; font-size: 18px; line-height: 200%;">
+									<strong style="font-size: 18px;">Inscríbete aquí</strong>
+								</span>
+							</button>
+						</div>
                     </div>
                     <div class="bee-col bee-col-3 bee-col-w5">
                         <div class="bee-block bee-block-1 bee-image"><img alt="Woman Florist Photo" class="bee-autowidth"

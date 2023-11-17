@@ -397,11 +397,13 @@
                             <div class="spacer" style="height:60px;"></div>
                         </div>
                         <div class="bee-block bee-block-2 bee-button">
-                            <div class="bee-button-content"
-                                style="font-size: 16px; background-color: #ff6347; border-bottom: 0px solid transparent; border-left: 0px solid transparent; border-radius: 4px; border-right: 0px solid transparent; border-top: 0px solid transparent; color: #ffffff; direction: ltr; font-family: inherit; font-weight: 400; max-width: 100%; padding-bottom: 5px; padding-left: 20px; padding-right: 20px; padding-top: 5px; width: auto; display: inline-block;">
-                                <span style="word-break: break-word; font-size: 16px; line-height: 200%;">Ponerme en
-                                    contacto</span>
-                            </div>
+                            <button class="btn btn-primary buttons" data-aos="fade-right" data-aos-duration="1000"
+									style="font-size: 16px; background-color: tomato; border-bottom: 0px solid #8a3b8f; border-left: 0px solid #8a3b8f; border-radius: 30px; border-right: 0px solid #8a3b8f; border-top: 0px solid #8a3b8f; color: #ffffff; direction: ltr; font-family: inherit; max-width: 100%; padding-bottom: 5px; padding-left: 40px; padding-right: 40px; padding-top: 5px; width: auto; display: inline-block;"
+									onclick="window.open('https://api.whatsapp.com/send?phone=56983241965&text=Hola! Quiero Saber más de misiones!', '_blank')">
+								<span style="word-break: break-word; font-size: 16px; line-height: 200%;">
+									¡Quiero participar!
+								</span>
+							</button>
                         </div>
                         <div class="bee-block bee-block-3 bee-divider">
                             <div class="spacer" style="height:40px;"></div>
@@ -777,4 +779,33 @@ p {
 
 .bee-row-15 .bee-col-1 .bee-block-1 .bee-icon::not(.bee-icon-last) .bee-content {
     margin-right: 0
-}</style>
+}
+.buttons button {
+	margin-top: 40px;
+	border-radius: 50px;
+	background-color: tomato !important;
+	border: none;
+	transition: 1s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+	transition: 0.2s;
+	z-index: 999;
+	transition-duration: 0.2s !important;
+	text-align: center;
+}
+
+.buttons a {
+	color: white !important;
+	text-decoration: none;
+	transition-duration: 0.2s !important;
+}
+
+.buttons button:hover {
+	size: 10% !important;
+	transition: 0.2s !important;
+	transition-delay: 0ms !important;
+	animation-delay: 0ms !important;
+	transition-duration: 0.2s !important;
+	-webkit-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	transform: scale(1.2);
+}
+</style>

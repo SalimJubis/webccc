@@ -27,17 +27,17 @@
                 <h3>Síguenos</h3>
                 <ul>
                   <li>
-                    <a href="#">
+                    <a href="https://www.facebook.com/Iccc.LasCondes" target="_blank">
                       <i class="fa fa-facebook"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="https://www.youtube.com/@IglesiaCCCLasCondes" target="_blank">
                       <i class="fa fa-youtube"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="https://www.instagram.com/iglesiaccclascondes/" target="_blank">
                       <i class="fa fa-instagram"></i>
                     </a>
                   </li>
@@ -100,15 +100,15 @@
                       <a href="/nosotros">Nosotros</a>
                     </li>
                     <li>
-                      <a href="/ayuda">Servicio</a>
+                      <a href="/grupos">Grupos por edades</a>
                     </li>
                     <li>
-                      <a href="/grupos">Grupos por edades</a>
+                      <a href="/grupos-en-casa">Grupos crece</a>
                     </li>
                   </ul>
                   <ul>
                     <li>
-                      <a href="/grupos-en-casa">Grupos crece</a>
+                      <a href="/ayuda">Servicio</a>
                     </li>
                     <li>
                       <a href="/misiones">Misiones</a>
