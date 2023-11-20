@@ -142,7 +142,7 @@
 					<div class="bee-col bee-col-3 bee-col-w4" data-aos="fade-right" data-aos-duration="1000">
 						<div class="bee-block bee-block-1 bee-image"><img alt="I'm an image"
 								class="bee-center bee-autowidth"
-								src="https://images.unsplash.com/photo-1511988617509-a57c8a288659?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2671&q=80"
+								src="@/assets/img/viejaEscuela.jpg"
 								style="max-width:316px;" /></div>
 						<div class="bee-block bee-block-2 bee-text">
 							<div class="bee-text-content"
