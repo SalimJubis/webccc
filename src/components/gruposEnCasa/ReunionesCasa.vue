@@ -236,7 +236,7 @@
                         <div class="bee-block bee-block-5 bee-button">
                             <button class="btn btn-primary bee-button-content" data-aos="fade-right" data-aos-duration="2500"
                                     style="font-size: 16px; background-color: #7747FF; border-bottom: 0px solid transparent; border-left: 0px solid transparent; border-radius: 4px; border-right: 0px solid transparent; border-top: 0px solid transparent; color: #ffffff; direction: ltr; font-family: inherit; font-weight: 400; max-width: 100%; padding-bottom: 5px; padding-left: 20px; padding-right: 20px; padding-top: 5px; width: auto; display: inline-block;"
-                                    onclick="window.open('https://api.whatsapp.com/send?phone=56983241965&text=Hola! quiero participar de un grupo crece.', '_blank')">
+                                    onclick="window.open('https://forms.gle/oPPSZat77VUZVfJq8', '_blank')">
                                 <a style="color:white; text-decoration: none;">
                                     <span style="word-break: break-word; font-size: 16px; line-height: 200%;">¡Quiero participar!</span>
                                 </a>
