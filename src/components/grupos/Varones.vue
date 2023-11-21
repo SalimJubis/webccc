@@ -101,7 +101,7 @@
                         <div class="bee-block bee-block-7 bee-button" data-aos="fade-right" data-aos-duration="2000">
 							<button class="btn btn-primary"
 								style="font-size: 16px; background-color: #efd3b6; border-radius: 4px; color: #ffffff; direction: ltr; font-family: inherit; max-width: 100%; padding-bottom: 5px; padding-left: 20px; padding-right: 20px; padding-top: 5px; width: auto; display: inline-block;"
-								onclick="window.open('https://api.whatsapp.com/send?phone=56983241965&text=Hola! Quiero participar de las reuniones de hombres!', '_blank')">
+								onclick="window.open('https://forms.gle/1ydMTAEBWry66hAS9', '_blank')">
 								<span style="word-break: break-word; font-size: 16px; line-height: 200%;">¡Quiero participar!</span>
 							</button>
 						</div>

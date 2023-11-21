@@ -99,7 +99,7 @@
                         <div class="bee-block bee-block-5 bee-button">
 							<button class="btn btn-primary" data-aos="fade-right" data-aos-duration="1500"
 									style="font-size: 18px; background-color: #d2a699; border-bottom: 0px solid transparent; border-left: 0px solid transparent; border-radius: 0px; border-right: 0px solid transparent; border-top: 0px solid transparent; color: #ffffff; direction: ltr; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; max-width: 100%; padding-bottom: 5px; padding-left: 20px; padding-right: 20px; padding-top: 5px; width: auto; display: inline-block;"
-									onclick="window.open('https://api.whatsapp.com/send?phone=56983241965&text=Hola! Quiero participar de las reuniones de mujeres!', '_blank')">
+									onclick="window.open('https://forms.gle/9ekvfuuTyFdXDonDA', '_blank')">
 								<span style="word-break: break-word; font-size: 18px; line-height: 200%;">
 									<strong style="font-size: 18px;">Inscríbete aquí</strong>
 								</span>

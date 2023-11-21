@@ -31,7 +31,7 @@
 								
 								<button type="button" class="btn btn-primary btn-lg" id="botonMedio" data-aos="fade-right"
 								data-aos-duration="1500">
-									<a href="https://api.whatsapp.com/send?phone=56977946444&text=Hola! Quiero formar parte y saber más sobre el equipo de oración." target="_blank">¡Quiero participar!</a>
+									<a href="https://forms.gle/Z6f4Sj3b3sgLzQMT6" target="_blank">¡Quiero participar!</a>
 								</button>
 								<button type="button" class="btn btn-primary btn-lg" id="botonMedio" data-aos="fade-right"
 									data-aos-duration="1500" style="margin-left: 20px;">

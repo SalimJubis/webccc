@@ -66,7 +66,7 @@
 						<div class="bee-block bee-block-5 bee-button">
 							<button class="btn btn-primary" data-aos="fade-right" data-aos-duration="1000"
 									style="font-size: 16px; background-color: #ea8422; border-bottom: 0px solid #8a3b8f; border-left: 0px solid #8a3b8f; border-radius: 0px; border-right: 0px solid #8a3b8f; border-top: 0px solid #8a3b8f; color: #ffffff; direction: ltr; font-family: inherit; max-width: 100%; padding-bottom: 5px; padding-left: 40px; padding-right: 40px; padding-top: 5px; width: auto; display: inline-block;"
-									onclick="window.open('https://api.whatsapp.com/send?phone=56983241965&text=Hola! Quiero participar en el grupo de jovenes La Gran Familia!', '_blank')">
+									onclick="window.open('https://forms.gle/AnipE39HztjpoWFF6', '_blank')">
 								<span style="word-break: break-word; font-size: 16px; line-height: 200%;">
 									¡Quiero participar!
 								</span>
