@@ -38,7 +38,7 @@
 						<div class="bee-block bee-block-5 bee-button">
 							<button id="quieroParticiparBtn" class="btn btn-primary" data-aos="fade-right" data-aos-duration="1500"
 									style="font-size: 16px; background-color: #d19333; margin: 0 auto; border-radius: 4px; margin-bottom: 40px; color: #ffffff; display:flex; justify-content: center; font-family: inherit; max-width: 100%; width: auto;"
-									onclick="window.open('https://forms.gle/81weSV7a5u27ygqq5', '_blank')">
+									onclick="window.open('https://forms.gle/ep1tzMdpCEmgNDC18', '_blank')">
 								<span style="font-size: 16px;">¡Quiero participar!</span>
 							</button>
 						</div>

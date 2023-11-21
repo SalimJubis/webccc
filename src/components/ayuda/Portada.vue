@@ -22,7 +22,7 @@
                 </div>
                 <div class="bee-col bee-col-2 bee-col-w5">
                     <div class="bee-block bee-block-1 bee-image"><img alt="become a volunteer"
-                            class="bee-fixedwidth bee-fullwidthOnMobile" src="../../assets/ayuda1.png"
+                            class="bee-fixedwidth bee-fullwidthOnMobile" src="../../assets/img/pablo.png"
                             style="max-width:450px;" /></div>
                 </div>
             </div>
