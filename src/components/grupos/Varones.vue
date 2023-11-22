@@ -85,7 +85,7 @@
                                 <div class="bee-content">
                                     <div class="bee-icon-image"><img alt="Bulleting point" height="16px"
                                             src="@/assets/bulleting_point.png" width="auto" /></div>
-                                    <div class="bee-icon-label bee-icon-label-right">Apoyarnos  y acopañarnos mutuamente.</div>
+                                    <div class="bee-icon-label bee-icon-label-right">Apoyarnos  y acompañarnos mutuamente.</div>
                                 </div>
                             </div>
                         </div>

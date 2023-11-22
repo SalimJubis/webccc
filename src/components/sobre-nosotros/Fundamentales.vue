@@ -118,7 +118,7 @@
 					</div>
 					<div class="bee-col bee-col-3 bee-col-w6">
 						<div class="bee-block bee-block-1 bee-paragraph">
-							<p>Jesús de Nazareth es el Hijo de Dios, que se hizo hombre, nació y vivió hace más dos mil
+							<p>Jesús de Nazareth es el Hijo de Dios, que se hizo hombre, nació y vivió hace más de dos mil
 								años; que murió en la cruz, pero resucitó para volver en gloria a la presencia de Dios
 								Padre.</p>
 						</div>
@@ -194,7 +194,7 @@
 					</div>
 					<div class="bee-col bee-col-3 bee-col-w6">
 						<div class="bee-block bee-block-1 bee-paragraph">
-							<p>Creemos que Dios, por medio de la fe en la muerte y resurrección de Jesús, Dios nos ha
+							<p>Creemos que Dios, por medio de la fe en la muerte y resurrección de Jesús, nos ha
 								concedido sanidad física, mental y espiritual.</p>
 						</div>
 					</div>
@@ -244,8 +244,7 @@
 					</div>
 					<div class="bee-col bee-col-3 bee-col-w6">
 						<div class="bee-block bee-block-1 bee-paragraph">
-							<p>Jesús de Nazareth es el Hijo de Dios, que se hizo hombre, nació y vivió hace más dos mil
-								años; que murió en la cruz, pero resucitó para volver en gloria a la presencia de Dios Padre
+							<p>La santificación es un acto de separación de todo lo malo, y de dedicación a Dios.
 							</p>
 						</div>
 					</div>
