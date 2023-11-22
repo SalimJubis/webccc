@@ -16,7 +16,7 @@
                         <div class="bee-text-content"
                             style="font-size: 14px; line-height: 120%; font-family: inherit; color: #f5f5f5;">
                             <p style="font-size: 14px; line-height: 16px;"><span
-                                    style="font-size: 22px; line-height: 26px;">Si te mueve servir, en nuestra iglesia realizamos campañas para juntar viveres y dinero para ir en ayuda a los hermanos que están pasando dificultades económicas. Oramos por las personas que pasan por momentos de enfermedad, conflictos famileares u otros problemas. También nos hemos asociado a algunas fundaciones y organizaciones que ayudan a las personas en necesidad.</span></p>
+                                    style="font-size: 22px; line-height: 26px;">Si te mueve servir, en nuestra iglesia realizamos campañas para juntar víveres y dinero para ir en ayuda a los hermanos que están pasando dificultades económicas. Oramos por las personas que pasan por momentos de enfermedad, conflictos familiares u otros problemas. También nos hemos asociado a algunas fundaciones y organizaciones que ayudan a las personas en necesidad.</span></p>
                         </div>
                     </div>
                 </div>
