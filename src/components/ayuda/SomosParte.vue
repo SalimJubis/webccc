@@ -15,7 +15,7 @@
 			<div class="bee-text-content" data-aos="fade-right" data-aos-duration="2000"
 				style="font-size: 14px; line-height: 150%; font-family: inherit; color: #222;">
 				<p style="font-size: 18px; line-height: 27px; text-align: center;"><span
-						style="font-size: 18px; line-height: 27px;">Si te mueve el voluntariado social. Te invitamos a conocer a nuestro equipo de la Fundación Somos Parte. Esta fundación trabaja con los niños que son atendidos por los programas de Mejor niñez del Gobierno de Chile.</span></p>
+						style="font-size: 18px; line-height: 27px;">Si te mueve el voluntariado social. Te invitamos a conocer a nuestro equipo de la Fundación Somos Parte. Esta fundación trabaja con los niños que son atendidos por los programas de Mejor Niñez del Gobierno de Chile.</span></p>
 				<p style="font-size: 18px; line-height: 27px; text-align: center;"></p>
 				<p style="font-size: 18px; line-height: 27px; text-align: center;"><span
 						style="font-size: 18px; line-height: 27px;">Brindamos tiempos de compartir la palabra en forma creativa y siempre llevamos algo rico que compartir con los chicos.</span></p>

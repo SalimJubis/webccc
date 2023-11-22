@@ -16,7 +16,7 @@
 									style="font-size: 18px; line-height: 27px;">Si te mueve la misericordia, ayudamos a las personas que tienen necesidades econónimicas básicas. Puedes ayudar llevando alimentos no perecibles cada domingo en la reunión principal.</span></p>
 							<p style="font-size: 18px; line-height: 27px; text-align: right;"></p>
 							<p style="font-size: 18px; line-height: 27px; text-align: right;"><span
-									style="font-size: 18px; line-height: 27px;">También puedes hacer una donación económica en nuestra cuenta, solo tienes transferir un valor termina en $10, como $5.010.</span></p>
+									style="font-size: 18px; line-height: 27px;">También puedes hacer una donación económica en nuestra cuenta, solo tienes transferir un valor que termine en $10, como $5.010.</span></p>
 						</div>
 						<div class="buttons">
 							<button type="button" class="btn btn-primary btn-lg"   id="botonMedio" data-aos="fade-right"
