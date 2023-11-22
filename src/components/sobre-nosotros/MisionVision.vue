@@ -60,7 +60,7 @@
 							<span class="tinyMce-placeholder">Visión</span> </h3>
 					</div>
 					<div class="bee-block bee-block-3 bee-paragraph">
-						<p >Preparar nuestras vidas con arrepentimiento, ayuno y oración para el avivamiento espiritual prometido a nuestra iglesia, que traerá, salvación, sanidad y liberación a las personas de nuestras comunidades.</p>
+						<p >Alcanzar la Zona Nororiente de la Región Metropolitana, siendo la Zona menos evangelizada; por medio de la plantación de iglesias, el crecimiento espiritual de los creyentes y la conciencia de una misión mundial.</p>
 					</div>
 					<div class="bee-block bee-block-4 bee-image"><img alt="" class="bee-center bee-fixedwidth" data-aos="zoom-in" data-aos-duration="800"
 							src="@/assets/img/vision.jpg"
