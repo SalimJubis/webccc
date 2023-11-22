@@ -85,7 +85,7 @@
                     <div class="bee-col bee-col-3 bee-col-w7">
                         <div class="bee-block bee-block-1 bee-image"><img alt="Landscape Photo Placeholder"
                                 class="bee-center bee-fixedwidth bee-fullwidthOnMobile"
-                                src="../../assets/img/viki.png" data-aos="fade-up" data-aos-duration="1000"
+                                src="../../assets/img/viki.png" data-aos="zoom-in" data-aos-duration="1000"
                                 style="max-width:714px; border-radius: 35px" /></div>
                     </div>
                 </div>
@@ -189,7 +189,7 @@
                     </div>
                     <div class="bee-col bee-col-3 bee-col-w7">
                         <div class="bee-block bee-block-1 bee-image"><img alt="City Photo Placeholder"
-                                class="bee-center bee-fixedwidth bee-fullwidthOnMobile" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1600"
+                                class="bee-center bee-fixedwidth bee-fullwidthOnMobile" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="1600"
                                 src="https://images.unsplash.com/photo-1476304884326-cd2c88572c5f?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                                 style="max-width:714px; border-radius: 35px" /></div>
                     </div>
@@ -257,7 +257,7 @@
                     </div>
                     <div class="bee-col bee-col-2 bee-col-w4">
                         <div class="bee-block bee-block-1 bee-image bee-desktop_hide"><img alt="Log Cabin Photo Placeholder"
-                                class="bee-center bee-fullwidthOnMobile bee-fixedwidth" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300"
+                                class="bee-center bee-fullwidthOnMobile bee-fixedwidth" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="300"
                                 src="https://images.unsplash.com/photo-1576014131795-d440191a8e8b?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                                 style="max-width:480px ;border-radius: 35px" /></div>
                         <div class="bee-block bee-block-2 bee-divider">
@@ -281,7 +281,7 @@
                     </div>
                     <div class="bee-col bee-col-3 bee-col-w7">
                         <div class="bee-block bee-block-1 bee-image"><img alt="Log Cabin Photo Placeholder"
-                                class="bee-center bee-fixedwidth bee-fullwidthOnMobile" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600"
+                                class="bee-center bee-fixedwidth bee-fullwidthOnMobile" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="600"
                                 src="https://images.unsplash.com/photo-1576014131795-d440191a8e8b?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                                 style="max-width:714px; border-radius: 35px" /></div>
                     </div>
@@ -368,12 +368,12 @@
                                 <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="700" style="font-size: 16px; line-height: 16px; text-align: center;">Misioneros en Pakistan</p>
                             </div>
                         </div>
-                        <div class="bee-block bee-block-1 bee-image"><img alt="I'm an image" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="800"
+                        <div class="bee-block bee-block-1 bee-image"><img alt="I'm an image" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="800"
                                 class="bee-center bee-autowidth" src="@/assets/img/pakistan.png" style="max-width:200px; border-radius: 20px;" />
                         </div>
                     </div>
                     <div class="bee-col bee-col-2 bee-col-w6">
-                        <div class="bee-block bee-block-1 bee-image"><img alt="I'm an image" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="900"
+                        <div class="bee-block bee-block-1 bee-image"><img alt="I'm an image" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="900"
                                 class="bee-center bee-autowidth" src="@/assets/img/joni.png" style="max-width:450px;" /></div>
                         <div class="bee-block bee-block-2 bee-text">
                             <div class="bee-text-content"
@@ -390,7 +390,7 @@
                                 <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1200" style="font-size: 16px; line-height: 16px; text-align: center;">Misioneros en España</p>
                             </div>
                         </div>
-                        <div class="bee-block bee-block-1 bee-image"><img alt="I'm an image" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1300"
+                        <div class="bee-block bee-block-1 bee-image"><img alt="I'm an image" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="1300"
                                 class="bee-center bee-autowidth" src="@/assets/img/espana.jpg" style="max-width:200px; border-radius: 20px;" />
                         </div>
                     </div>
