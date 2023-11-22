@@ -46,10 +46,10 @@
 							<span class="tinyMce-placeholder" >Misión</span> </h3>
 					</div>
 					<div class="bee-block bee-block-3 bee-paragraph">
-						<p  >Alcanzar a las personas del sector oriente de nuestra ciudad con el evangelio de Jesucristo, usando apasionadamente todos los medios y recursos posibles.</p>
+						<p  >Alcanzar, bautizar y enseñar a las personas para que entreguen sus vidas a Jesús, dando testimonio del Evangelio y caminando juntos en amor.</p>
 					</div>
 					<div class="bee-block bee-block-4 bee-image"><img alt="" class="bee-center bee-fixedwidth" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="300"
-							src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/260143659.jpg?k=37edcf1d4014076248e005de6f36117676487c1c60abb28d09c6206611d2c037&o=&hp=1"
+							src="@/assets/img/vision.jpg"
 							style="max-width:512px; max-height: 340px;" /></div>
 				</div>
 				<div class="bee-col bee-col-2 bee-col-w6">
@@ -63,7 +63,7 @@
 						<p >Alcanzar la Zona Nororiente de la Región Metropolitana, siendo la Zona menos evangelizada; por medio de la plantación de iglesias, el crecimiento espiritual de los creyentes y la conciencia de una misión mundial.</p>
 					</div>
 					<div class="bee-block bee-block-4 bee-image"><img alt="" class="bee-center bee-fixedwidth" data-aos="zoom-in" data-aos-duration="800"
-							src="@/assets/img/vision.jpg"
+							src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/260143659.jpg?k=37edcf1d4014076248e005de6f36117676487c1c60abb28d09c6206611d2c037&o=&hp=1"
 							style="max-width:512px;" /></div>
 				</div>
 			</div>
