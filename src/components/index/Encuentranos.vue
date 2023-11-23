@@ -37,7 +37,7 @@
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-6 primero">
             <iframe class="i2" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.389606433841!2d-70.56939249999999!3d-33.4130855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662cee0c315c5f9%3A0x4398e173313b3335!2sLa%20Capitan%C3%ADa%20500%2C%207580083%20Las%20Condes%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1ses-419!2scl!4v1695401255138!5m2!1ses-419!2scl"
               width="600" height="450" style="border: 0" allowfullscreen="" loading="lazy"></iframe>
         </div>
@@ -51,6 +51,10 @@
             <img
               src="https://images.unsplash.com/photo-1568992687947-868a62a9f521?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80"
               class="d-block w-100" alt="..." />
+        </div>
+        <div class="col-md-6 segundo" style="display: none">
+            <iframe class="i2" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.389606433841!2d-70.56939249999999!3d-33.4130855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662cee0c315c5f9%3A0x4398e173313b3335!2sLa%20Capitan%C3%ADa%20500%2C%207580083%20Las%20Condes%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1ses-419!2scl!4v1695401255138!5m2!1ses-419!2scl"
+              width="600" height="450" style="border: 0" allowfullscreen="" loading="lazy"></iframe>
         </div>
       </div>
       
@@ -146,10 +150,16 @@ iframe {
   }
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 768px) {
   iframe {
     width: 510px !important;
     height: 415px !important;
+  }
+  .segundo{
+    display: block !important;
+  }
+  .primero{
+    display: none;
   }
 }
 
@@ -214,9 +224,15 @@ iframe {
 }
 
 /* otro */
+@media screen and (max-width: 1310px) {
+  .i2 {
+    width: 500px !important;
+  }
+}
+
 @media screen and (max-width: 1232px) {
   .i2 {
-    width: 550px !important;
+    width: 450px !important;
   }
 }
 

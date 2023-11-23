@@ -54,7 +54,7 @@
 					<div class="bee-block bee-block-1 bee-image"><img alt="Cat eating" class="bee-center bee-autowidth"
 							src="../../assets/img/pilar1.png" style="max-width:330px;"  data-aos-duration="800" data-aos-delay="300"/></div>
 				</div>
-				<div class="bee-col bee-col-3 bee-col-w3">
+				<div class="bee-col bee-col-3 bee-col-w3 p2a">
 					<div class="bee-block bee-block-1 bee-image"><img alt="Dog with a toy"
 							class="bee-center bee-autowidth" src="../../assets/img/pilar2.png" style="max-width:330px;"  data-aos-duration="800"/></div>
 				</div>
@@ -73,6 +73,10 @@
 									style="font-size: 16px; line-height: 24px;">Toda la Escritura es inspirada por Dios, y útil para enseñar ... a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra (2 Timoteo 3:16-17).</span></p>
 						</div>
 					</div>
+				</div>
+				<div class="bee-col bee-col-3 bee-col-w3 p2b" style="display: none;">
+					<div class="bee-block bee-block-1 bee-image"><img alt="Dog with a toy"
+							class="bee-center bee-autowidth" src="../../assets/img/pilar2.png" style="max-width:330px;"  data-aos-duration="800"/></div>
 				</div>
 			</div>
 		</div>
@@ -101,7 +105,7 @@
 					<div class="bee-block bee-block-1 bee-image"><img alt="Cat eating" class="bee-center bee-autowidth"
 							src="../../assets/img/pilar3.png" style="max-width:330px;"  data-aos-duration="800" data-aos-delay="300"/></div>
 				</div>
-				<div class="bee-col bee-col-3 bee-col-w3">
+				<div class="bee-col bee-col-3 bee-col-w3 p4a">
 					<div class="bee-block bee-block-1 bee-image"><img alt="Dog with a toy"
 							class="bee-center bee-autowidth" src="../../assets/pilar4.png" style="max-width:330px;"  data-aos-duration="800" /></div>
 				</div>
@@ -122,6 +126,10 @@
 									style="font-size: 16px; line-height: 24px;">Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo. (Mateo 28:19).</span></p>
 						</div>
 					</div>
+				</div>
+				<div class="bee-col bee-col-3 bee-col-w3 p4b" style="display: none;">
+					<div class="bee-block bee-block-1 bee-image"><img alt="Dog with a toy"
+							class="bee-center bee-autowidth" src="../../assets/pilar4.png" style="max-width:330px;"  data-aos-duration="800" /></div>
 				</div>
 			</div>
 		</div>
@@ -294,5 +302,19 @@
 
 		.bee-row-4 .bee-col-1 .bee-block-1 .bee-icon::not(.bee-icon-last) .bee-content {
 			margin-up: 0
+		}
+		@media screen and (max-width: 768px) {
+			.p2a{
+				display: none !important;
+			}
+			.p4a{
+				display: none !important;
+			}
+			.p2b{
+				display: block !important;
+			}
+			.p4b{
+				display: block !important;
+			}
 		}
 	</style>

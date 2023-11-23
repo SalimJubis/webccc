@@ -58,7 +58,7 @@
                   <!-- End contact Icon -->
                   <div class="contact-info">
                     <h3>Local central</h3>
-                    <p>La capitanía 500, Las Condes</p>
+                    <p>La Capitanía 500, Las Condes</p>
                   </div>
                   <!-- End Contact Info -->
                 </div>

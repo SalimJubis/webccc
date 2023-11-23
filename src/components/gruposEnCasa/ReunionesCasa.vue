@@ -44,7 +44,7 @@
                         <div class="bee-block bee-block-6 bee-heading" data-aos="fade-right" data-aos-duration="2000">
                             <h1
                                 style="direction:ltr;font-family:Montserrat, Trebuchet MS, Lucida thin, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;font-size:16px;font-weight:normal;letter-spacing:1px;line-height:150%;text-align:left;margin-top:0;margin-bottom:0;">
-                                <span class="tinyMce-placeholder">Los grupos en casa acercan la glesia al lugar donde tu
+                                <span class="tinyMce-placeholder">Los grupos en casa acercan la iglesia al lugar donde tu
                                     vives. Tenemos casas en Ñuñoa, La Reina, Las Condes, Vitacura y Chicureo.</span>
                             </h1>
                         </div>

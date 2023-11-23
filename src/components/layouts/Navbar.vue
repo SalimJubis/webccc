@@ -76,7 +76,7 @@
                     <h1>BIENVENIDO</h1>
                   </div>
                   <div class="subtitulo">
-                    <h2>A NUESTRA COMUNIDAD CRISTIANA DE FE EN LAS CONDES</h2>
+                    <h2>A CENTRO DE CRECIMIENTO CRISTIANO</h2>
                   </div>
                 </div>
               </div>

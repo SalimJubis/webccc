@@ -23,7 +23,7 @@
 						<div class="bee-text-content" data-aos="fade-right" data-aos-duration="1500"
 							style="font-size: 14px; line-height: 150%; font-family: inherit; color: #222;">
 							<p style="font-size: 18px; line-height: 27px; text-align: left;"><span
-										style="font-size: 18px; line-height: 27px;">Si necesitas consejería espiritual o apoyo en resolver conflictos o problemas familiares puedes solicitar una cita al equipo de pastores de pastores y ancianos en el siguiente link. </span></p>
+										style="font-size: 18px; line-height: 27px;">Si necesitas consejería espiritual o apoyo en resolver conflictos o problemas familiares puedes solicitar una cita al equipo de pastores y ancianos en el siguiente link. </span></p>
 						</div>
                         <div class="buttons">
                             <button

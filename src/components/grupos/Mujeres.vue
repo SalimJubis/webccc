@@ -25,7 +25,7 @@
                             <div class="spacer" style="height:15px;"></div>
                         </div>
                         <div class="bee-block bee-block-2 bee-paragraph" data-aos="fade-right" data-aos-duration="1000">
-                            <p style="word-break: break-word;"><span style="color: #653725;">Tenemos un tiempo para compartir y nos apoyamos para lograr que Dios forme nuestro caracter y corazón. Es un espacio seguro donde podemos ser aunténticas y sinceras en la forma que buscamos la presencia de Dios.</span></p>
+                            <p style="word-break: break-word;"><span style="color: #653725;">Tenemos un tiempo para compartir y nos apoyamos para lograr que Dios forme nuestro carácter y corazón. Es un espacio seguro donde podemos ser aunténticas y sinceras en la forma que buscamos la presencia de Dios.</span></p>
                         </div>
                         <div class="bee-block bee-block-3 bee-divider">
                             <div class="spacer" style="height:15px;"></div>
