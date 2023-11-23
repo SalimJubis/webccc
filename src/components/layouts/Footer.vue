@@ -27,18 +27,23 @@
                 <h3>Síguenos</h3>
                 <ul>
                   <li>
-                    <a href="https://www.facebook.com/Iccc.LasCondes" target="_blank">
+                    <a href="https://www.facebook.com/Iccc.LasCondes" target="_blank" style="text-decoration: none !important;">
                       <i class="fa fa-facebook"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.youtube.com/@IglesiaCCCLasCondes" target="_blank">
+                    <a href="https://www.youtube.com/@IglesiaCCCLasCondes" target="_blank" style="text-decoration: none !important;">
                       <i class="fa fa-youtube"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.instagram.com/iglesiaccclascondes/" target="_blank">
+                    <a href="https://www.instagram.com/iglesiaccclascondes/" target="_blank" style="text-decoration: none !important;">
                       <i class="fa fa-instagram"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://whatsapp.com/channel/0029Va5rnTG0gcfK1l9qU40S" target="_blank" style="text-decoration: none !important;">
+                      <i class="fa fa-whatsapp"></i>
                     </a>
                   </li>
                 </ul>
@@ -150,7 +155,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-6">
-              <span>Copyright © 2023, All Right Reserved CCC</span>
+              <span>Copyright © 2023, Todos los derechos reservados Iglesia CCC Las Condes</span>
             </div>
             <!-- End Col -->
             <div class="col-md-6">
@@ -373,6 +378,10 @@ p {
 .dk-footer-box-info .footer-social-link a i.fa-instagram {
   background-color: #d9218f;
 }
+.dk-footer-box-info .footer-social-link a i.fa-whatsapp {
+  background-color: #078e3e;
+}
+
 
 .footer-awarad {
   margin-top: 285px;
