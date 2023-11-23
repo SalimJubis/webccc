@@ -17,13 +17,13 @@
                 ></v-img>
 
                 <v-card-text>
-                  <h2>Culto 17 de Septiembre </h2>
-                  Un día como hoy, una predica que nos invita a recordar el sacrificio de Jesús.
+                  <h2>Culto 19 de Noviembre </h2>
+                  Entre 2 caminos, un mensaje que nos desafía.
                 </v-card-text>
 
                 <v-fade-transition>
                   <v-overlay v-if="hover" absolute color="#ff6347">
-                    <v-btn href="https://www.youtube.com/watch?v=OgPHxiN1hLw" target="blank">Ver Culto</v-btn>
+                    <v-btn href="https://www.youtube.com/watch?v=n9gjzIp_M8s" target="blank">Ver Culto</v-btn>
                   </v-overlay>
                 </v-fade-transition>
               </v-card>
@@ -44,13 +44,13 @@
                 ></v-img>
 
                 <v-card-text>
-                  <h3>Culto 10 de Septiembre</h3>
-                  ¿Cual es el corazón del evangelio? Descubrelo en este hermoso mensaje.
+                  <h3>Culto 12 de Noviembre</h3>
+                  Cuando la mejor opción es avanzar, ¡Entra y descubre de que se trata!.
                 </v-card-text>
 
                 <v-fade-transition>
                   <v-overlay v-if="hover" absolute color="#078e3e" class="over">
-                    <v-btn href="https://www.youtube.com/watch?v=Vgu8UWinw5g" target="blank">Ver Culto</v-btn>
+                    <v-btn href="https://www.youtube.com/watch?v=1L801o5W4UQ" target="blank">Ver Culto</v-btn>
                   </v-overlay>
                 </v-fade-transition>
               </v-card>
@@ -71,13 +71,13 @@
                 ></v-img>
 
                 <v-card-text>
-                  <h2>Culto 3 de Septiembre</h2>
-                  ¡Construyamos uns puente! ¿Que quiere decir? descubrelo en esta transmición.
+                  <h2>Culto 5 de Noviembre</h2>
+                  ¡Ve nuestro culto de aniversario con nuestro pastor fundador!
                 </v-card-text>
 
                 <v-fade-transition>
                   <v-overlay v-if="hover" absolute color="#ff6347">
-                    <v-btn href="https://www.youtube.com/watch?v=9g_DKuVRHkw&t=4026s" target="blank">Ver Culto</v-btn>
+                    <v-btn href="https://www.youtube.com/watch?v=YF49r08xRU8" target="blank">Ver Culto</v-btn>
                   </v-overlay>
                 </v-fade-transition>
               </v-card>

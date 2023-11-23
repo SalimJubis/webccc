@@ -342,7 +342,7 @@
                             <div class="spacer" style="height:65px;"></div>
                         </div>
                         <div class="bee-block bee-block-4 bee-paragraph">
-                            <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300" style="word-break: break-word;"><span style="color: #f8f8f9;">Com iglesia apoyamos a 2 familias misioneras, a las cuales ayudamos en oración y monetariamente.</span></p>
+                            <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300" style="word-break: break-word;"><span style="color: #f8f8f9;">Como iglesia apoyamos a 2 familias misioneras, a las cuales ayudamos en oración y monetariamente.</span></p>
                         </div>
                         <div class="bee-block bee-block-5 bee-spacer">
                             <div class="spacer" style="height:60px;"></div>

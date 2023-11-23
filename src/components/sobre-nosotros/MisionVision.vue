@@ -50,7 +50,7 @@
 					</div>
 					<div class="bee-block bee-block-4 bee-image"><img alt="" class="bee-center bee-fixedwidth" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="300"
 							src="@/assets/img/vision.jpg"
-							style="max-width:512px; max-height: 340px;" /></div>
+							style="max-width:512px; " /></div>
 				</div>
 				<div class="bee-col bee-col-2 bee-col-w6">
 					
@@ -64,7 +64,7 @@
 					</div>
 					<div class="bee-block bee-block-4 bee-image"><img alt="" class="bee-center bee-fixedwidth" data-aos="zoom-in" data-aos-duration="800"
 							src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/260143659.jpg?k=37edcf1d4014076248e005de6f36117676487c1c60abb28d09c6206611d2c037&o=&hp=1"
-							style="max-width:512px;" /></div>
+							style="max-width:512px; max-height: 320px;" /></div>
 				</div>
 			</div>
 		</div>
