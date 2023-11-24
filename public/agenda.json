@@ -1,0 +1,33 @@
+[
+    {
+        "Dia": "Lunes",
+        "Numero": "23",
+        "Actividades": "Lista de actividades"
+    },
+    {
+        "Dia": "Martes",
+        "Numero": "24",
+        "Actividades": "Lista de actividades"
+    },
+    {
+        "Dia": "Miércoles",
+        "Numero": "25",
+        "Actividades": "Lista de actividades"
+    },
+    {
+        "Dia": "Jueves",
+        "Numero": "26",
+        "Actividades": "Lista de actividades"
+    },
+    {
+        "Dia": "Viernes",
+        "Numero": "27",
+        "Actividades": "Lista de actividades"
+    },
+    {
+        "Dia": "Sábado",
+        "Numero": "28",
+        "Actividades": "Lista de actividades"
+    }
+]
+  
