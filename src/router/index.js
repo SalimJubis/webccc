@@ -12,6 +12,8 @@ import MiCCC from '../components/Mi-CCC.vue';
 import Rotativo from '../components/Rotativo.vue';
 import Creativo from '../components/Creativo.vue';
 import GruposCasa from '../components/GruposCasa.vue';
+import Agenda from '../components/Agenda.vue';
+import EditorAgenda from '../components/EditorAgenda.vue';
 
 
 Vue.use(VueRouter)
@@ -66,6 +68,11 @@ const routes = [
     path: '/grupos-en-casa',
     name: 'GruposEnCasa',
     component: GruposCasa
+  },
+  {
+    path: '/actividades-semanales',
+    name: 'ActividesSemanales',
+    component: Agenda
   },
   {
     path: '/rotativo',
