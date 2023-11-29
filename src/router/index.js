@@ -13,7 +13,6 @@ import Rotativo from '../components/Rotativo.vue';
 import Creativo from '../components/Creativo.vue';
 import GruposCasa from '../components/GruposCasa.vue';
 import Agenda from '../components/Agenda.vue';
-import EditorAgenda from '../components/EditorAgenda.vue';
 
 
 Vue.use(VueRouter)
