@@ -1,7 +1,7 @@
 <template>
   <div style="border: none !important;">
     <div class="card-container" style="border: none !important;">
-      <div v-for="(item, index) in agenda" :key="index" >
+      <div v-for="(item, index) in jsonData.record" :key="index" >
         <div class="courses-container">
           <div class="course" style="margin: auto !important;">
             <div class="course-preview">
@@ -10,39 +10,51 @@
               <a href="#">Saber más <i class="fas fa-chevron-right"></i></a>
             </div>
             <div class="course-info">
-              <h2>Actividades</h2>
-              <p>{{ item.Actividades }}</p>
-              <button class="btn">Ponerme en contacto</button>
+              <h2 style="color: tomato;">Actividades</h2>
+              <p>{{ item.Actividad1 }}</p>
+              <p>{{ item.Actividad2 }}</p>
+              <p>{{ item.Actividad3 }}</p>
+              <p>{{ item.Actividad4 }}</p>
             </div>
           </div>
         </div>
         <br>
       </div>
     </div>
+    <br><br><br><br><br>
   </div>
 </template>
-
 <script>
-import axios from 'axios';
-
 export default {
   data() {
     return {
-      agenda: [],
+      jsonData: null,
     };
   },
   mounted() {
-    this.fetchAgendaData();
+    this.fetchJsonData();
   },
   methods: {
-    fetchAgendaData() {
-      axios.get('/agenda.json') // Ajusta la ruta según tu estructura de archivos
+    fetchJsonData() {
+      const apiUrl = 'https://api.jsonbin.io/v3/b/6567350b0574da7622cdcf40/latest';
+
+      fetch(apiUrl, {
+        method: 'GET',
+        headers: {
+          'X-Master-Key': '$2a$10$DMnH2wrGQmABkRR2GPgUWeJaYTeEeGYMy.QWUFtw89oSFyHlsDh4G',
+        },
+      })
         .then(response => {
-          console.log('Datos obtenidos de la agenda:', response.data);
-          this.agenda = response.data;
+          if (!response.ok) {
+            throw new Error(`Error al obtener datos del bin. Código de estado: ${response.status}`);
+          }
+          return response.json();
+        })
+        .then(data => {
+          this.jsonData = data;
         })
         .catch(error => {
-          console.error('Error al obtener datos de la agenda:', error);
+          console.error('Error al obtener datos del bin:', error);
         });
     },
   },
@@ -76,7 +88,7 @@ export default {
 }
 
 .course-preview {
-  background-color: #2A265F;
+  background-color: #067231;
   color: #fff;
   padding: 30px;
   max-width: 250px;
@@ -98,7 +110,7 @@ export default {
 }
 
 .btn {
-  background-color: #2A265F;
+  background-color: tomato;
   border: 0;
   border-radius: 50px;
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
