@@ -45,7 +45,7 @@
 					</div>
 					<div class="bee-col bee-col-3 bee-col-w5">
 						<div class="bee-block bee-block-1 bee-image"><img alt="Kid Education"
-								class="bee-center bee-fixedwidth bee-fullwidthOnMobile" src="@/assets/Education.png"
+								class="bee-center bee-fixedwidth bee-fullwidthOnMobile" src="@/assets/img/mateo.png"
 								style="max-width:450px;" /></div>
 					</div>
 					<div class="bee-col bee-col-4 bee-col-w1">

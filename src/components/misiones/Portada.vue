@@ -85,7 +85,7 @@
                     <div class="bee-col bee-col-3 bee-col-w7">
                         <div class="bee-block bee-block-1 bee-image"><img alt="Landscape Photo Placeholder"
                                 class="bee-center bee-fixedwidth bee-fullwidthOnMobile"
-                                src="../../assets/img/viki.png" data-aos="zoom-in" data-aos-duration="1000"
+                                src="../../assets/img/equipoMisiones.jpg" data-aos="zoom-in" data-aos-duration="1000"
                                 style="max-width:714px; border-radius: 35px" /></div>
                     </div>
                 </div>
@@ -190,7 +190,7 @@
                     <div class="bee-col bee-col-3 bee-col-w7">
                         <div class="bee-block bee-block-1 bee-image"><img alt="City Photo Placeholder"
                                 class="bee-center bee-fixedwidth bee-fullwidthOnMobile" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="1600"
-                                src="https://images.unsplash.com/photo-1476304884326-cd2c88572c5f?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                                src="../../assets/img/viki.png"
                                 style="max-width:714px; border-radius: 35px" /></div>
                     </div>
                 </div>
@@ -217,7 +217,7 @@
                     <div class="bee-col bee-col-2 bee-col-w4">
                         <div class="bee-block bee-block-1 bee-image bee-mobile_hide"><img alt="Log Cabin Photo Placeholder"
                                 class="bee-center bee-fullwidthOnMobile bee-fixedwidth" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="900"
-                                src="https://images.unsplash.com/photo-1473186505569-9c61870c11f9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                                src="../../assets/img/cami.png"
                                 style="max-width:480px; border-radius: 35px !important" /></div>
                         <div class="bee-block bee-block-2 bee-spacer bee-mobile_hide">
                             <div class="spacer" style="height:60px;"></div>
