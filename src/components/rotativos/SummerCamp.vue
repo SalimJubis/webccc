@@ -154,15 +154,15 @@
                         <div class="bee-block bee-block-2 bee-spacer">
                             <div class="spacer" style="height:30px;"></div>
                         </div>
-                        <div class="bee-block bee-block-3 bee-image"><img alt="" class="bee-center bee-fixedwidth"
+                        <div class="bee-block bee-block-3 bee-image"><img alt="" class="bee-center bee-fixedwidth" data-aos="fade-right" data-aos-duration="300"
                                 src="@/assets/img/ico2.png" style="max-width:60px;" /></div>
                         <div class="bee-block bee-block-4 bee-heading">
-                            <h2
+                            <h2 data-aos="fade-right" data-aos-duration="500"
                                 style="color:#ff914d;direction:ltr;font-family:'Nunito', Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size:32px;font-weight:800;letter-spacing:normal;line-height:120%;text-align:center;margin-top:0;margin-bottom:0;">
                                 <span class="tinyMce-placeholder">NUESTRAS EDADES</span>
                             </h2>
                         </div>
-                        <div class="bee-block bee-block-5 bee-paragraph">
+                        <div class="bee-block bee-block-5 bee-paragraph" data-aos="fade-right" data-aos-duration="800">
                             <p>Nuestro programa esta orientado con niños y niñas pertenecientes a la edad desde el primer
                                 año
                                 hasta y 10 añitos de edad.</p>
@@ -178,42 +178,42 @@
             <div class="bee-row bee-row-10">
                 <div class="bee-row-content">
                     <div class="bee-col bee-col-1 bee-col-w4">
-                        <div class="bee-block bee-block-1 bee-image"><img alt="Services Image"
+                        <div class="bee-block bee-block-1 bee-image"><img alt="Services Image" data-aos="fade-right" data-aos-duration="300"
                                 class="bee-center bee-fixedwidth" src="@/assets/img/semi.png" style="max-width:290px;" /></div>
                         <div class="bee-block bee-block-2 bee-heading">
-                            <h3
+                            <h3 data-aos="fade-right" data-aos-duration="500"
                                 style="color:#ff914d;direction:ltr;font-family:'Nunito', Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size:27px;font-weight:800;letter-spacing:normal;line-height:120%;text-align:center;margin-top:0;margin-bottom:0;">
                                 <span class="tinyMce-placeholder">Pasitos Lentos</span>
                             </h3>
                         </div>
-                        <div class="bee-block bee-block-3 bee-paragraph">
+                        <div class="bee-block bee-block-3 bee-paragraph" data-aos="fade-right" data-aos-duration="800">
                             <p>Grupo pensado para niños de 1 a 3 años.</p>
                         </div>
                     </div>
                     <div class="bee-col bee-col-2 bee-col-w4">
-                        <div class="bee-block bee-block-1 bee-image"><img alt="Services Image"
+                        <div class="bee-block bee-block-1 bee-image"><img alt="Services Image" data-aos="fade-right" data-aos-duration="300"
                                 class="bee-center bee-fixedwidth" src="@/assets/img/lentos.png" style="max-width:290px;" /></div>
                         <div class="bee-block bee-block-2 bee-heading">
-                            <h3
+                            <h3 data-aos="fade-right" data-aos-duration="500"
                                 style="color:#ffde59;direction:ltr;font-family:'Nunito', Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size:27px;font-weight:800;letter-spacing:normal;line-height:120%;text-align:center;margin-top:0;margin-bottom:0;">
                                 <span class="tinyMce-placeholder">Pasitos Rápidos</span>
                             </h3>
                         </div>
-                        <div class="bee-block bee-block-3 bee-paragraph">
+                        <div class="bee-block bee-block-3 bee-paragraph" data-aos="fade-right" data-aos-duration="800">
                             <p>Grupo pensado para niños de 4 a 6 años.</p>
                         </div>
                     </div>
                     <div class="bee-col bee-col-3 bee-col-w4">
-                        <div class="bee-block bee-block-1 bee-image"><img alt="Services Image"
+                        <div class="bee-block bee-block-1 bee-image"><img alt="Services Image" data-aos="fade-right" data-aos-duration="300"
                                 class="bee-center bee-fixedwidth" src="@/assets/img/corredores.png" style="max-width:307px;" />
                         </div>
                         <div class="bee-block bee-block-2 bee-heading">
-                            <h3
+                            <h3 data-aos="fade-right" data-aos-duration="500"
                                 style="color:#ff914d;direction:ltr;font-family:'Nunito', Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size:27px;font-weight:800;letter-spacing:normal;line-height:120%;text-align:center;margin-top:0;margin-bottom:0;">
                                 <span class="tinyMce-placeholder">Corredores</span>
                             </h3>
                         </div>
-                        <div class="bee-block bee-block-3 bee-paragraph">
+                        <div class="bee-block bee-block-3 bee-paragraph" data-aos="fade-right" data-aos-duration="800">
                             <p>Grupo pensado para niños de 7 a 10 años.</p>
                         </div>
                     </div>

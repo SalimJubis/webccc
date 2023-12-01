@@ -13,17 +13,17 @@
             <template v-slot:default="{ hover }">
               <v-card class="mx-auto" max-width="344" height="365">
                 <v-img
-                  src="../../assets/cultos/76.png"
+                  src="https://i9.ytimg.com/vi/v9FMBvfCHzw/maxresdefault.jpg?v=6560a47d&sqp=CPSlp6sG&rs=AOn4CLD4por0eqE69kNKvk9eFF_NcPUS4Q"
                 ></v-img>
 
                 <v-card-text>
-                  <h2>Culto 19 de Noviembre </h2>
-                  Entre 2 caminos, un mensaje que nos desafía.
+                  <h2>Culto 26 de Noviembre </h2>
+                  Dios nos está alentando a ir a aguas más profundas!
                 </v-card-text>
 
                 <v-fade-transition>
                   <v-overlay v-if="hover" absolute color="#ff6347">
-                    <v-btn href="https://www.youtube.com/watch?v=n9gjzIp_M8s" target="blank">Ver Culto</v-btn>
+                    <v-btn href="https://youtube.com/live/v9FMBvfCHzw" target="blank">Ver Culto</v-btn>
                   </v-overlay>
                 </v-fade-transition>
               </v-card>
@@ -40,17 +40,17 @@
             <template v-slot:default="{ hover }">
               <v-card class="mx-auto" max-width="344" height="365">
                 <v-img
-                  src="../../assets/cultos/75.png"
+                  src="../../assets/cultos/76.png"
                 ></v-img>
 
                 <v-card-text>
-                  <h3>Culto 12 de Noviembre</h3>
-                  Cuando la mejor opción es avanzar, ¡Entra y descubre de que se trata!.
+                  <h3>Culto 19 de Noviembre </h3>
+                  Entre 2 caminos, un mensaje que nos desafía.
                 </v-card-text>
 
                 <v-fade-transition>
                   <v-overlay v-if="hover" absolute color="#078e3e" class="over">
-                    <v-btn href="https://www.youtube.com/watch?v=1L801o5W4UQ" target="blank">Ver Culto</v-btn>
+                    <v-btn href="https://www.youtube.com/watch?v=n9gjzIp_M8s" target="blank">Ver Culto</v-btn>
                   </v-overlay>
                 </v-fade-transition>
               </v-card>
@@ -67,17 +67,17 @@
             <template v-slot:default="{ hover }">
               <v-card class="mx-auto" max-width="344" height="365">
                 <v-img
-                  src="../../assets/cultos/74.png"
+                  src="../../assets/cultos/75.png"
                 ></v-img>
 
                 <v-card-text>
-                  <h2>Culto 5 de Noviembre</h2>
-                  ¡Ve nuestro culto de aniversario con nuestro pastor fundador!
+                  <h2>Culto 12 de Noviembre</h2>
+                  Cuando la mejor opción es avanzar, ¡Entra y descubre de que se trata!.
                 </v-card-text>
 
                 <v-fade-transition>
                   <v-overlay v-if="hover" absolute color="#ff6347">
-                    <v-btn href="https://www.youtube.com/watch?v=YF49r08xRU8" target="blank">Ver Culto</v-btn>
+                    <v-btn href="https://www.youtube.com/watch?v=1L801o5W4UQ" target="blank">Ver Culto</v-btn>
                   </v-overlay>
                 </v-fade-transition>
               </v-card>
@@ -108,6 +108,7 @@ h3 {
   font-family: rustica, sans-serif;
   color: #078e3e;
   font-weight: 700;
+  font-size: 220%;
 }
 h4 {
   font-size: x-large;
