@@ -13,17 +13,17 @@
             <template v-slot:default="{ hover }">
               <v-card class="mx-auto" max-width="344" height="365">
                 <v-img
-                  src="../../assets/cultos/nadie.jpg"
+                  src="../../assets/cultos/conoces.png"
                 ></v-img>
 
                 <v-card-text>
-                  <h2>Culto 10 de Diciembre </h2>
-                  ¿Cómo vencer un gigante? Un mensaje que nos confronta.
+                  <h2>Culto 17 de Diciembre </h2>
+                  ¿Realmente lo conoces? Una transmición diferente.
                 </v-card-text>
 
                 <v-fade-transition>
                   <v-overlay v-if="hover" absolute color="#ff6347">
-                    <v-btn href="https://www.youtube.com/watch?v=PZTBX3-LGAw" target="blank">Ver Culto</v-btn>
+                    <v-btn href="https://www.youtube.com/watch?v=jux3-ABTzpM&t=5339s" target="blank">Ver Culto</v-btn>
                   </v-overlay>
                 </v-fade-transition>
               </v-card>
@@ -40,17 +40,17 @@
             <template v-slot:default="{ hover }">
               <v-card class="mx-auto" max-width="344" height="365">
                 <v-img
-                  src="../../assets/cultos/gigante.jpg"
+                  src="../../assets/cultos/nadie.jpg"
                 ></v-img>
 
                 <v-card-text>
-                  <h3>Culto 3 de Diciembre </h3>
-                  ¿Cómo vencer un gigante? Un mensaje que nos confronta.
+                  <h3>Culto 10 de Diciembre </h3>
+                  Nadie queda indiferente, ven y escucha lo que Dios tiene para tu vida.
                 </v-card-text>
 
                 <v-fade-transition>
                   <v-overlay v-if="hover" absolute color="#078e3e" class="over">
-                    <v-btn href="https://youtube.com/live/ljdxxqdnjc4" target="blank">Ver Culto</v-btn>
+                    <v-btn href="https://www.youtube.com/watch?v=PZTBX3-LGAw" target="blank">Ver Culto</v-btn>
                   </v-overlay>
                 </v-fade-transition>
               </v-card>
@@ -67,17 +67,17 @@
             <template v-slot:default="{ hover }">
               <v-card class="mx-auto" max-width="344" height="365">
                 <v-img
-                  src="../../assets/cultos/acua.jpg"
+                  src="../../assets/cultos/gigante.jpg"
                 ></v-img>
 
                 <v-card-text>
-                  <h2>Culto 26 de Noviembre</h2>
-                  ¡Ven a sumergirte a lo que Dios tiene para tu vida!.
+                  <h2>Culto 3 de Diciembre </h2>
+                  ¿Cómo vencer un gigante? Un mensaje que nos confronta.
                 </v-card-text>
 
                 <v-fade-transition>
                   <v-overlay v-if="hover" absolute color="#ff6347">
-                    <v-btn href="https://youtube.com/live/v9FMBvfCHzw" target="blank">Ver Culto</v-btn>
+                    <v-btn href="https://youtube.com/live/ljdxxqdnjc4" target="blank">Ver Culto</v-btn>
                   </v-overlay>
                 </v-fade-transition>
               </v-card>

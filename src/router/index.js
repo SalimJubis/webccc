@@ -14,6 +14,7 @@ import Creativo from '../components/Creativo.vue';
 import GruposCasa from '../components/GruposCasa.vue';
 import Agenda from '../components/Agenda.vue';
 import Summer from '../components/Summer.vue';
+import Reino from '../components/Reino.vue';
 
 
 Vue.use(VueRouter)
@@ -91,6 +92,11 @@ const routes = [
     name: 'SummerCamp',
     component: Summer,
     meta: { hideNavbars: true, hideFooter: true },
+  },
+  {
+    path: '/tiempo-de-reino',
+    name: 'TiempoDeReino',
+    component: Reino
   }
 ]
 
