@@ -4,7 +4,7 @@
       <div class="container">
         <b-navbar toggleable="lg" type="dark" class="navv">
           <b-navbar-brand href="/">
-            <img src="../../assets/logo3.png" class="d-inline-block align-top" width="160" height="95" />
+            <img src="../../assets/img/logo_new.png" class="d-inline-block align-top" width="200" height="95" />
           </b-navbar-brand>
 
           <b-navbar-toggle target="nav-collapse" onclick="divLogin()"></b-navbar-toggle>

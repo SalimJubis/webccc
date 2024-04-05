@@ -13,11 +13,11 @@
             <div class="dk-footer-box-info">
               <a href="index.html" class="footer-logo">
                 <img
-                  src="../../assets/logo3.png"
+                  src="../../assets/img/logoFooter.png"
                   alt="footer_logo"
                   class="img-fluid"
                   width="260"
-                  height="195"
+                  height="150"
                 />
               </a>
               <p class="footer-info-text">

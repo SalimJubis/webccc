@@ -3,10 +3,10 @@
     <div class="container">
       <b-navbar-brand href="/" class="mx-auto d-block">
         <img
-          src="../../assets/logoColor.png"
+          src="../../assets/img/logo_cuadrado_new.png"
           class="mx-auto d-block"
-          width="160"
-          height="95"
+          width="120"
+          height="120"
         />
       </b-navbar-brand>
     </div>

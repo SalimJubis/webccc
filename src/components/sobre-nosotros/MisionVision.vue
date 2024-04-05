@@ -24,59 +24,6 @@
 			</div>
 		</div>
 		<br><br><br><br>
-        <div class="bee-row bee-row-5">
-			<div class="bee-row-content">
-				<div class="bee-col bee-col-1 bee-col-w12">
-					<div class="bee-block bee-block-1 bee-heading">
-						<h2 data-aos="fade-up" data-aos-duration="1500"
-							style="color:#1a3926;direction:ltr;font-family:montserrat, sans-serif;font-size:33px;font-weight:700;letter-spacing:normal;line-height:120%;text-align:center;margin-top:0;margin-bottom:0;">
-							Nuestra Misión y Visión  </h2>
-					</div>
-				</div>
-			</div>
-		</div>
-        <br><br>
-        <div class="bee-row bee-row-6">
-			<div class="bee-row-content">
-				<div class="bee-col bee-col-1 bee-col-w6">
-					
-					<div class="bee-block bee-block-2 bee-heading">
-						<h3 
-							style="color:tomato;direction:ltr;font-family:montserrat, sans-serif;font-size:24px;font-weight:700;letter-spacing:normal;line-height:120%;text-align:center;margin-top:0;margin-bottom:0;">
-							<span class="tinyMce-placeholder" >Misión</span> </h3>
-					</div>
-					<div class="bee-block bee-block-3 bee-paragraph">
-						<p  >Alcanzar, bautizar y enseñar a las personas para que entreguen sus vidas a Jesús, dando testimonio del Evangelio y caminando juntos en amor.</p>
-					</div>
-					<div class="bee-block bee-block-4 bee-image"><img alt="" class="bee-center bee-fixedwidth" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="300"
-							src="@/assets/img/vision.jpg"
-							style="max-width:512px; " /></div>
-				</div>
-				<div class="bee-col bee-col-2 bee-col-w6">
-					
-					<div class="bee-block bee-block-2 bee-heading">
-						<h3 
-							style="color: tomato;direction:ltr;font-family:montserrat, sans-serif;font-size:24px;font-weight:700;letter-spacing:normal;line-height:120%;text-align:center;margin-top:0;margin-bottom:0;">
-							<span class="tinyMce-placeholder">Visión</span> </h3>
-					</div>
-					<div class="bee-block bee-block-3 bee-paragraph">
-						<p >Alcanzar la Zona Nororiente de la Región Metropolitana, siendo la Zona menos evangelizada; por medio de la plantación de iglesias, el crecimiento espiritual de los creyentes y la conciencia de una misión mundial.</p>
-					</div>
-					<div class="bee-block bee-block-4 bee-image"><img alt="" class="bee-center bee-fixedwidth" data-aos="zoom-in" data-aos-duration="800"
-							src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/260143659.jpg?k=37edcf1d4014076248e005de6f36117676487c1c60abb28d09c6206611d2c037&o=&hp=1"
-							style="max-width:512px; max-height: 320px;" /></div>
-				</div>
-			</div>
-		</div>
-		<div class="bee-row bee-row-7">
-			<div class="bee-row-content">
-				<div class="bee-col bee-col-1 bee-col-w12">
-					<div class="bee-block bee-block-1 bee-spacer">
-						<div class="spacer" style="height:25px;"></div>
-					</div>
-				</div>
-			</div>
-		</div>
     </div>
 </template>
 <style scoped>
